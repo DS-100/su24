@@ -127,7 +127,7 @@ Live **discussion sections** are one hour long, and held on Monday or Wednesdays
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students attend discussion.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions. Discussion attendance is graded as follows:
 
-- Discussion attendance will be recorded each week and account for 2.5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for (except for the first discussion). In order to obtain full discussion attendance credit, students need to attend **10 discussion sections**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances – you should not plan to use them.
+- Discussion attendance accounts for 2.5% of the overall grade. Each biweekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for (except for the first discussion of the term). In order to obtain full discussion attendance credit, students need to attend **10 discussion sections**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances – you should not plan to use them.
 - Alternatively, students with low discussion attendance may shift this portion (2.5%) of their grade onto their final exam score. The instructors will automatically determine which grading policy will maximize a student’s final grade in the course at the end of the semester.
 
 Please refer to [Grading Scheme](#grading-scheme) for a more detailed grade breakdown.
@@ -147,9 +147,9 @@ Biweekly **homeworks** are designed to help students develop an in-depth underst
 **Labs** are shorter, weekly programming assignments designed to give students familiarity with new ideas. They are meant to be completed prior to homework.
 - All lab assignments must be submitted to Gradescope by their posted deadlines.
 - All lab autograder tests are public (visible).
-- We will not be having lab sections for Data 100/200 this semester. Rather, we'll provide extensive lab support on Ed and accompanying video walkthroughs.
+- We will not be having lab sections for Data 100 this semester. Rather, we'll provide extensive lab support on Ed and accompanying video walkthroughs.
 - All labs are intended to take about an hour.
-- Lab submissions are mandatory for students enrolled in Data 100 and Data 200S. Lab submissions are not mandatory for students enrolled in Data 200. See the [Policies](#policies) section for the submission grace period.
+- Lab submissions are mandatory and part of your grade. See the [Policies](#policies) section for the submission grace period.
 
 ### Exams
 
