@@ -6,7 +6,7 @@ description: >-
     Principles and Techniques of Data Science
 markdown: kramdown
 course:
-    semester: Spring 2024
+    semester: Summer 2024
     edstem: 
     faq: https://ds100.org/faqs/sp24/
     bcourses: ""
@@ -100,11 +100,12 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 
 |  Mo | Tu | We | Th | Fr |
 | --- | --- | --- | --- | --- | --- |
-| | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | |
-| | <span style="color:Blue">Discussion Section</span>| <span style="color:Blue">Discussion Section</span>| | | 
-| | Office Hours | Office Hours | Office Hours | Office Hours | 
-| | | |<span style="color:Red">**Homework N-1 due**</span> | <span style="color:Red">Homework N released</span> | 
-| |<span style="color:Red">**Lab N-1 due**</span>| | | <span style="color:Red">Lab N released</span>|
+| <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> |
+| <span style="color:Blue">Discussion Section</span> | | <span style="color:Blue">Discussion Section</span> | | |
+| Office Hours | Office Hours | Office Hours | Office Hours | Office Hours | 
+| | <span style="color:Red">Homework I due</span> | | | <span style="color:Red">Homework II due</span> | 
+| <span style="color:Red">Lab due</span> | | | <span style="color:Red">Lab due</span> | |
+
 
 - **All deadlines are subject to change.**
 - The Office Hours schedule is on the [Calendar page](../calendar).
@@ -113,37 +114,27 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 
 ### Lecture
 
-There are 2 live **lectures** held on Tuesdays and Thursdays, 11:00am-12:30pm, hybrid: in-person in Wheeler 150 and broadcasted live on Zoom. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture. 
+There are 4 live **lectures** held on Monday, Tuesday, Thursday and Friday, 9:30am-11:00am, in-person in Lewis 100. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture.
 
-**Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
-- Lecture participation is graded using poll responses on a 0/1 basis.
-  - Synchronous Participation: complete at least one participation poll question during the live lecture timeslot (11:00am-12:30pm, Tuesdays and Thursdays). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
-  - Asynchronous Participation: complete all participation poll questions from the link provided on the course website within one week of the corresponding lecture.
-  - In both cases, participation is graded on completion, not correctness.
-- If you submit all participation polls over the course of the semester (i.e., do not use any of the three automatic drops), you will receive +0.5% bonus points applied to your final overall grade in the class.
-- See the [Policies](#policies) section for lecture participation drops.
+**Lecture participation**: Lecture attendance is graded, we expect you to "participate" in lecture by answering poll questions during the lecture as they are launched. We will not be offering an asynchronous lecture participation option.
+- Lecture participation is graded using poll responses on a 0/1 basis. Complete at least one participation poll question during the live lecture timeslot (9:30am-11:30am on Monday, Tuesday, Thursday and Friday). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit. In order to obtain full lecture attendance credit, students need to attend **20 lectures**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances – you should not plan to use them.
+- Alternatively, students with low attendance scores may shift this portion (2.5%) of their grade onto their final exam score. The instructors will automatically determine which grading policy will maximize a student’s final grade in the course at the end of the semester.
+- Please see the [Policies](#policies) section for more details.
 
 
 ### Discussion
-Live **discussion sections** are one hour long, and held on Tuesdays or Wednesdays. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
+Live **discussion sections** are one hour long, and held on Monday or Wednesdays. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
 
-The lectures, assignments, and exams of this course are structured with the **expectation that all students attend discussion.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
+The lectures, assignments, and exams of this course are structured with the **expectation that all students attend discussion.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions. Discussion attendance is graded as follows:
 
-{: .important }
-> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to sign up for the first discussion (details will be released through Ed). Following the first discussion, students will be asked to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion Attendance Option will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
+- Discussion attendance will be recorded each week and account for 2.5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for (except for the first discussion). In order to obtain full discussion attendance credit, students need to attend **10 discussion sections**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances – you should not plan to use them.
+- Alternatively, students with low discussion attendance may shift this portion (2.5%) of their grade onto their final exam score. The instructors will automatically determine which grading policy will maximize a student’s final grade in the course at the end of the semester.
 
-- **Graded Discussion Attendance Option:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
-    - Online sections are reserved for students with specific needs (e.g., DSP, Data 200S, etc.); these can be requested through the Pre-Semester and Discussion Selection Form.
-    - All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or other extenuating circumstances. These drops are designed to account for unexpected events – you should not plan to use them.
-- **Ungraded Discussion Attendance Option:** Instead, the 5% discussion weight will be redistributed, with 2.5% added to both the midterm and final scores. 
-
-Students are not permitted to switch between the two grading schemes once  finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
-
-Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
+Please refer to [Grading Scheme](#grading-scheme) for a more detailed grade breakdown.
 
 ### Homework and Projects
 
-**Homeworks** are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. **Projects** are 2-week assignments (with a weekly checkpoint) that synthesize multiple topics.
+Biweekly **homeworks** are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. **Projects** are longer assignments that synthesize multiple topics.
 
 - All homeworks and projects must be submitted to Gradescope by their posted deadlines. There may be separate coding and written Gradescope portals for the same assignment; please check that you are submitting the right part.
 - Homeworks and projects have both public (visible) and hidden autograder tests. The public tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are completing the assignment.
@@ -165,13 +156,10 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 There will be two exams in this course:
 
 {: .important}
-> - **Midterm** on **Thursday, March 7** 7-9 PM PST.
-- **Final** on **Thursday, May 9** 8-11 AM PST.
+> - **Midterm** on **Friday, July 19** 9-11 AM PT.
+- **Final** on **Thursday, August 8** 9-11 AM PT.
 
-**All exams must be taken in-person.** There will be no alternate exams offered.
-
-### Graduate Final Project
-All students enrolled in the graduate version of the course (CS C200A or Stat C200C, i.e. Data 200; Data 200S) will be graded according to the Graduate grading scheme, which includes a team-based **Graduate Final Project** distributed in the second half of the semester. More details to be in the coming weeks.
+**All exams must be taken in-person and are a requirement for passing the course.** There will be no alternate exams offered.
 
 ## Office Hours and Communication
 
@@ -179,59 +167,50 @@ We want to enable everyone to succeed in this course. We encourage you to discus
 
 - All office hours will be updated on the Calendar.
 - In-person course staff office hours will be held in Warren Hall 101B.
-- In general, students can come to staff office hours for any	 questions on course assignments or material.
-- Instructor office hours are generally reserved for conceptual questions, course review,  course logistics, research opportunities, and career planning.
+- In general, students can come to staff office hours for any questions on course assignments or material.
+- Instructor office hours are generally reserved for conceptual questions, course review, course logistics, research opportunities, and career planning.
 
 
 Course Communication:
 
-- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/51810){:target="_blank"} or the [FAQ]({{page.course.faq}}){:target="_blank"} page first before emailing course staff directly.
+- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/59974){:target="_blank"} or the [FAQ]({{page.course.faq}}){:target="_blank"} page first before emailing course staff directly.
 
     - Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community){:target="_blank"} and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf){:target="_blank"}.
 
     - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response. If you need to discuss a more sensitive matter, the following emails are monitored by a smaller subset of the teaching team:
 
 - For logistical questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors, the head TAs, and a few lead TAs.
-- For extenuating circumstances/DSP: student accommodation requests will be handled via the [Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
+- For extenuating circumstances/DSP: student accommodation requests will be handled via the [Accommodations Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
     - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
 
 ## Policies
 
 ### Grading Scheme
 
-| Category | Data 100 | Data 100 (no discussion) | Data 200 | Data 200S | Details |
-| --- | --- | --- | --- | --- | ---  |
-| Homeworks | 25% | 25% | 20%| 25%| No drop|
-| Projects | 10% | 10%| 10% | 10%| No drop|
-| Labs | 5% | 5% |  - |  5% | No drop|
-| Discussions | 5% | - | - | - | Drop 3 lowest scores|
-| Lecture Participation | 5% | 5% | 5% |5% | Drop 3 lowest scores|
-| Midterm Exam | 20% | 22.5% | 20%| 25%| |
-| Final Exam | 30% | 32.5% | 30% | - | |
-| Graduate Final Project| - | - | 15% | 30% | |
+| Category | % | Details |
+| --- | --- | --- |
+| Homeworks | 20% | 1 drops |
+| Projects | 15% | No drop |
+| Labs | 5% | 2 drops |
+| Discussion Participation | 2.5%  | Out of 10 sections |
+| Lecture Participation | 2.5% | Out of 20 lectures |
+| Midterm Exam | 20% | |
+| Final Exam | 35% | |
 
-It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S.
-
-While we do not have homework and lab drops this semester, we will offer a grace period for homeworks/projects/labs, as well as an [Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A). See the next sections for more details.
+As mentioned above, students are provided with assignment drops for emergency situations that may come up unexpectedly. Only after using all drops, students facing **unforeseen significant life events** should complete the [Accommodations Form](https://forms.gle/HFdpmHzBu1e7zcF2A). A course staff member will reach out to you and provide a space for conversation, as well as potentially arrange accommodations as necessary.
 
 
 ### On-Time Submission
 
 All assignments are due at **_11:59 PM Pacific Time_** on the due date specified on the [Home / Schedule](..) page. The date and time of this deadline are firm. Submitting even a minute past is considered late.
 
-**Submitting by this “on-time” deadline earns an extra-credit on-time bonus, a 3% perk.** This is available for homeworks, projects, and labs.
+**Grace Period** We offer a 1-hour **grace period** for late submissions of homeworks, projects, and labs. Note that this grace period is designed to account for unexpected emergencies or technical difficulties (e.g. assignment submission errors) – you should not plan in advance to use it! 
 
+**Early Submission Bonus** Students who submit their assignments at least one day before the posted deadline automatically receive 3% extra-credit. This is available for all homeworks, projects, and labs.
 
-### Grace Period
+**Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected, such as DataHub or autograding issues, comes up at the last minute when aiming for the deadline. 
 
-We recognize that life can be unexpected, and that you may face circumstances that prevent you from submitting your work by the posted deadline. In light of this, we offer a 1-day (24 hour) **grace period** for late submissions of homeworks, projects, and labs. Note that this grace period is designed to account for unexpected emergencies or technical difficulties (e.g. assignment submission errors) – you should not plan in advance to use it! 
-
-{: .note }
-> You can make a late submission after the on-time deadline and up to the end of the grace period. **These late submissions are not penalized, but do not earn the 3% on-time bonus.** You do not need to explicitly contact staff about late submissions; just submit directly to Gradescope within the listed grace period.
-
-**Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected comes up when aiming for the on-time deadline. As a result, getting an extension beyond the grace period will generally not be granted, except in rare, extraordinary emergencies (see the [Extenuating Circumstances](#extenuating-circumstances) section). The grace period is also intended to account for unexpected circumstances such as DataHub issues, so we will not be granting extensions if you fail to communicate any datahub issues before the grace period begins.
-
-All official communication will refer to the on-time deadline as the expected dates that you will submit assignments. 
+As students are granted assignment drops for unforeseen circumstances, getting an extension beyond the grace period will generally not be granted. Except in case of unforeseen life events students should complete the [Accommodations Circumstances](#extenuating-circumstances).
 
 
 ### Extenuating Circumstances
