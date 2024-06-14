@@ -24,7 +24,9 @@ description: Calendars with times for all course events.
 
 To access `office hours`, go to the room in the location of the office hour slot you're planning on attending, place your ticket on the [queue](http://oh.ds100.org/) and then a course staff member will call your name when it's your turn.
 
-- `Instructor office hours` with Maya and Kevin appear in <span style="color:red">**red**</span>. You should come to these with questions about concepts.
+`Instructor office hours` with Maya and Kevin appear in <span style="color:red">**red**</span>. You should come to these with questions about concepts.
+
+We have also added the following events to the calendar:
 - Lectures (in <span style="color:brown">**brown**</span>)
 - In-person discussion sections (in <span style="color:orange">**orange**</span>)
 - Remote discussion sections (in <span style="color:blue">**blue**</span>)
