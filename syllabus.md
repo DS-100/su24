@@ -208,29 +208,32 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 **Early Submission Bonus** Students who submit their assignments at least one day before the posted deadline automatically receive 3% extra-credit. This is available for all homeworks, projects, and labs.
 
-**Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected, such as DataHub or autograding issues, comes up at the last minute when aiming for the deadline. 
-
-As students are granted assignment drops for unforeseen circumstances, getting an extension beyond the grace period will generally not be granted. Except in case of unforeseen life events students should complete the [Accommodations Circumstances](#extenuating-circumstances).
+**Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected, such as DataHub or autograding issues, comes up at the last minute when aiming for the deadline. Assignment drops are provided to students for unforeseen circumstances and/or personal emergencies, getting an extension beyond the grace period will generally not be granted. Only in case of unforeseen life events, students should complete the [Accommodations Circumstances](#extenuating-circumstances).
 
 
-### Extenuating Circumstances
+### Unforeseen Life Events
 
-We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you.
+If you encounter unforeseen life events at any time in the semester, please let us know. The sooner we are made aware, the more options we have available to us to help you.
 
 {: .important }
-The **[Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}** is for any circumstances that cannot be resolved via the grace period policy above. Within two business days of filling out the form, a course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
+Within two business days of filling out the **[Accommodations Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}**, we will reach out to you and provide a space for conversation, as well as potentially arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
 
-We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). **Our Grace Period Policy combined with the Extenuating Circumstances Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term.** So please do not hesitate to reach out.
+We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). **Our drops policy combined with the accommodations form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term.** So please do not hesitate to reach out.
 
-Note that extenuating circumstances do not extend to logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. **It is the student’s responsibility to identify and resolve these issues in advance of the on-time deadline.** We will not grant accommodations for these cases; instead, please use the grace period to cushion these submission errors.
+Note that accommodations are not given in case of logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. **It is the student’s responsibility to identify and resolve these issues in advance of the on-time deadline.** We will not grant accommodations for these cases; instead, please use the grace period to cushion these submission errors.
 
 
 ### DSP Accommodations
 
 {: .important }
-If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our student support team at [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved assignment accommodations will have the 1-day grace period added to the approved extension to the on-time deadline. Please note that any extension, plus the grace period combined, cannot exceed **7 days**. DSP students can submit assignment extension accommodation requests via the **[Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}**.
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. In this email, we will go over the extensions and other assignment and exam accommodations we will be offering you. Otherwise, email our student support team at [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). You are responsible for reasonable and timely communication with course staff.
+
+<!---
+#DSP students who receive approved assignment accommodations will have the 1-day grace period added to #the approved extension to the on-time deadline. Please note that any extension, plus the grace period #combined, cannot exceed **7 days**. DSP students can submit assignment extension accommodation requests via the **[Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}**.
+
 
 You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+-->
 
 
 ### Regrade Requests
