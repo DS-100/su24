@@ -103,8 +103,10 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 | <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> |
 | <span style="color:Blue">Discussion Section</span> | | <span style="color:Blue">Discussion Section</span> | | |
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours | 
-| | <span style="color:Red">Homework I due</span> | | | <span style="color:Red">Homework II due</span> | 
-| <span style="color:Red">Lab I due</span> | | | <span style="color:Red">Lab II due</span> | |
+| | <span style="color:Red">**Homework I due**</span> | | | <span style="color:Red">Homework I released </span> | 
+| | <span style="color:Red">Homework II released</span> | | | <span style="color:Red">**Homework II due**</span> | 
+| <span style="color:Red">**Lab I due**</span> | | | <span style="color:Red">Lab I released</span> | |
+| <span style="color:Red">Lab II released</span> | | | <span style="color:Red">**Lab II due**</span> | |
 
 
 - **All deadlines are subject to change.**
@@ -114,23 +116,22 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 
 ### Lecture
 
-There are 4 live **lectures** held on Monday, Tuesday, Thursday and Friday, 9:30am-11:00am, in-person in Lewis 100. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture.
+There are 4 live **lectures** held on Monday, Tuesday, Thursday, and Friday from 9:30am-11:00am, in-person in Lewis 100. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture.
 
 **Lecture participation**: Lecture attendance is graded, we expect you to "participate" in lecture by answering poll questions during the lecture as they are launched. We will not be offering an asynchronous lecture participation option.
-- Lecture participation is graded using poll responses on a 0/1 basis. Complete at least one participation poll question during the live lecture timeslot (9:30am-11:30am on Monday, Tuesday, Thursday and Friday). As long as you submit a response to at least one poll question in this timeframe, you will receive lecture attendance credit. In order to obtain full lecture attendance credit, students need to attend **20 lectures**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances – you should not plan to use them.
+- Lecture participation is graded using poll responses on a 0/1 basis. Complete at least one participation poll question during the live lecture timeslot (9:30am-11:30am on Monday, Tuesday, Thursday, and Friday). As long as you submit a response to at least one poll question in this timeframe, you will receive lecture attendance credit. In order to obtain full lecture attendance credit, students need to attend **20 lectures**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances.
 - Alternatively, students with low attendance scores may shift this portion (2.5%) of their grade onto their final exam score. The instructors will automatically determine which grading policy will maximize a student’s final grade in the course at the end of the semester.
 - Please see the [Policies](#policies) section for more details.
 
 
 ### Discussion
-Live **discussion sections** are one hour long, and held on Monday or Wednesdays. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
+Live **discussion sections** are one hour long, and held on Monday and Wednesdays. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students attend discussion.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions. Discussion attendance is graded as follows:
 
-- Discussion attendance accounts for 2.5% of the overall grade. Each biweekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for (except for the first discussion of the term). In order to obtain full discussion attendance credit, students need to attend **10 discussion sections**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances – you should not plan to use them.
+- Discussion attendance accounts for 2.5% of the overall grade. Each biweekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for (except for the first discussion of the term). In order to obtain full discussion attendance credit, students need to attend **10 discussion sections**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances.
 - Alternatively, students with low discussion attendance may shift this portion (2.5%) of their grade onto their final exam score. The instructors will automatically determine which grading policy will maximize a student’s final grade in the course at the end of the semester.
-
-Please refer to [Grading Scheme](#grading-scheme) for a more detailed grade breakdown.
+- Please see the [Policies](#policies) section for more details.
 
 ### Homework and Projects
 
@@ -155,9 +156,8 @@ Biweekly **homeworks** are designed to help students develop an in-depth underst
 
 There will be two exams in this course:
 
-{: .important}
-> - **Midterm** on **Friday, July 19** 9-11 AM PT.
-- **Final** on **Thursday, August 8** 9-11 AM PT.
+- **Midterm** on **Friday, July 19** from 9-11 AM PT.
+- **Final** on **Thursday, August 8** from 9-11 AM PT.
 
 **All exams must be taken in-person and are a requirement for passing the course.** There will be no alternate exams offered.
 
@@ -180,16 +180,16 @@ Course Communication:
     - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response. If you need to discuss a more sensitive matter, the following emails are monitored by a smaller subset of the teaching team:
 
 - For logistical questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors, the head TAs, and a few lead TAs.
-- For extenuating circumstances/DSP: student accommodation requests will be handled via the [Accommodations Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
+- For extenuating circumstances/DSP: student accommodation requests will be handled via the [Accommodations Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
     - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
 
 ## Policies
 
 ### Grading Scheme
 
-| Category | % | Details |
+| Category | Percentage | Details |
 | --- | --- | --- |
-| Homeworks | 20% | 1 drops |
+| Homeworks | 20% | 1 drop |
 | Projects | 15% | No drop |
 | Labs | 5% | 2 drops |
 | Discussion Participation | 2.5%  | Out of 10 sections |
@@ -208,7 +208,7 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 **Early Submission Bonus** Students who submit their assignments at least one day before the posted deadline automatically receive 3% extra-credit. This is available for all homeworks, projects, and labs.
 
-**Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected, such as DataHub or autograding issues, comes up at the last minute when aiming for the deadline. Assignment drops are provided to students for unforeseen circumstances and/or personal emergencies, getting an extension beyond the grace period will generally not be granted. Only in case of unforeseen life events, students should complete the [Accommodations Circumstances](#extenuating-circumstances).
+**Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected, such as DataHub or autograding issues, comes up at the last minute when aiming for the deadline. Assignment drops are provided to students for unforeseen circumstances and/or personal emergencies, getting an extension beyond the grace period will generally not be granted. Only in case of unforeseen life events, students should complete the [Accommodations Form](#extenuating-circumstances).
 
 
 ### Unforeseen Life Events
@@ -272,7 +272,7 @@ Our [Resources](../resources) page lists not only course-specific academic resou
 
 ## We want you to succeed!
 
-If you are feeling overwhelmed, visit our office hours and talk with us, or fill out the Extenuating Circumstances Form. We know college can be stressful and we want to help you succeed.
+If you are feeling overwhelmed, visit our office hours and talk with us, or fill out the Accommodations Form. We know college can be stressful and we want to help you succeed.
 
 {: .important }
 We are committed to being a resource to you, but it is important to note that all members of the teaching staff for this course are [responsible employees](https://svsh.berkeley.edu/responsible-employee){:target="_blank"}, meaning that **we must disclose any incidents of sexual harassment or violence to campus authorities**. If you would like to speak to a confidential advocate, please consider reaching out to the [Berkeley PATH to Care Center](https://care.berkeley.edu/){:target="_blank"}.
