@@ -104,7 +104,7 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 | <span style="color:Blue">Discussion Section</span> | | <span style="color:Blue">Discussion Section</span> | | |
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours | 
 | | <span style="color:Red">Homework I due</span> | | | <span style="color:Red">Homework II due</span> | 
-| <span style="color:Red">Lab due</span> | | | <span style="color:Red">Lab due</span> | |
+| <span style="color:Red">Lab I due</span> | | | <span style="color:Red">Lab II due</span> | |
 
 
 - **All deadlines are subject to change.**
