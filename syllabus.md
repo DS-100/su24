@@ -116,7 +116,7 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 
 ### Lecture
 
-There are 4 live **lectures** held on Monday, Tuesday, Thursday, and Friday from 9:30am-11:00am, in-person in Lewis 100. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture.
+There are 4 live **lectures** held on Monday, Tuesday, Thursday, and Friday from 9:30am-11:00am in-person in Lewis 100. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture.
 
 **Lecture participation**: Lecture attendance is graded, we expect you to "participate" in lecture by answering poll questions during the lecture as they are launched. We will not be offering an asynchronous lecture participation option.
 - Lecture participation is graded using poll responses on a 0/1 basis. Complete at least one participation poll question during the live lecture timeslot (9:30am-11:30am on Monday, Tuesday, Thursday, and Friday). As long as you submit a response to at least one poll question in this timeframe, you will receive lecture attendance credit. In order to obtain full lecture attendance credit, students need to attend **20 lectures**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances.
@@ -202,11 +202,12 @@ As mentioned above, students are provided with assignment drops for emergency si
 
 ### On-Time Submission
 
-All assignments are due at **_11:59 PM Pacific Time_** on the due date specified on the [Home / Schedule](..) page. The date and time of this deadline are firm. Submitting even a minute past is considered late.
+All assignments are due at **_11:59 PM Pacific Time_** on the due date specified on the [Home / Schedule](..) page. The date and time of this deadline are firm. Submitting even a minute past is considered late. 
 
-**Grace Period** We offer a 1-hour **grace period** for late submissions of homeworks, projects, and labs. Note that this grace period is designed to account for unexpected emergencies or technical difficulties (e.g. assignment submission errors) – you should not plan in advance to use it! 
+**Submitting by this “on-time” deadline earns an extra-credit on-time bonus, a 3% perk.** This is available for homeworks, projects, and labs.
 
-**Early Submission Bonus** Students who submit their assignments at least one day before the posted deadline automatically receive 3% extra-credit. This is available for all homeworks, projects, and labs.
+### Grace Period
+We recognize that life can be unexpected, and that you may face circumstances that prevent you from submitting your work by the posted deadline. In light of this, we offer a 1-day (24 hour) **grace period** for late submissions of homeworks, projects, and labs. Note that this grace period is designed to account for unexpected emergencies or technical difficulties (e.g. assignment submission errors) – you should not plan in advance to use it!
 
 **Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected, such as DataHub or autograding issues, comes up at the last minute when aiming for the deadline. Assignment drops are provided to students for unforeseen circumstances and/or personal emergencies, getting an extension beyond the grace period will generally not be granted. Only in case of unforeseen life events, students should complete the [Accommodations Form](#extenuating-circumstances).
 
