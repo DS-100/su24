@@ -36,7 +36,7 @@
   },"5": {
     "doc": "Home / Schedule",
     "title": "Data 100: Principles and Techniques of Data Science",
-    "content": "UC Berkeley, Summer 2024 . Ed Datahub Gradescope Lectures Playlist Extenuating Circumstances Office Hours Queue . Kevin Miao he/him . kevinmiao@berkeley.edu . Maya Shen She/her/hers . mayashen@berkeley.edu . na . ",
+    "content": "UC Berkeley, Summer 2024 . Ed Datahub Gradescope Lectures Playlist Emergency Accommodations Office Hours Queue . Kevin Miao he/him . kevinmiao@berkeley.edu . Maya Shen She/her/hers . mayashen@berkeley.edu . na . ",
     "url": "/su24/#data-100-principles-and-techniques-of-data-science",
     
     "relUrl": "/#data-100-principles-and-techniques-of-data-science"
@@ -120,7 +120,7 @@
   },"17": {
     "doc": "Resources",
     "title": "Reference Sheet",
-    "content": "Here is the Spring 2024 Final Reference Sheet. ",
+    "content": "An updated reference sheet will be shared closer to the start of the exam. For reference, we have provided the Spring 2024 Final Reference Sheet. ",
     "url": "/su24/resources/#reference-sheet",
     
     "relUrl": "/resources/#reference-sheet"
@@ -141,7 +141,7 @@
   },"20": {
     "doc": "Resources",
     "title": "Exam Resources",
-    "content": "Please refer to Data 100: Past Exam Common Questions, curating common exam-related questions we’ve seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions. Here is a list of out-of-scope past exam questions for Spring 2024 Final. | Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Spring 2024 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) [Walkthrough] | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) [Walkthrough] | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) [Walkthrough] | Midterm, Final | . | Fall 2022 | Exam (Solutions) [Walkthrough] |   |   | Midterm | . | Summer 2022 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) [Walkthrough] | Midterm, Final | . | Spring 2022 | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Exam (Solutions) [Walkthrough] | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2017 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
+    "content": "Please refer to Data 100: Past Exam Common Questions, curating common exam-related questions we’ve seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions. | Semester | Midterm 1 | Midterm 2 | Final | Reference Sheet | . | Spring 2024 | Exam (Solutions) |   | Exam (Solutions) | Midterm, Final | . | Fall 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) [Walkthrough] | Midterm, Final | . | Summer 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) [Walkthrough] | Midterm, Final | . | Spring 2023 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) [Walkthrough] | Midterm, Final | . | Fall 2022 | Exam (Solutions) [Walkthrough] |   |   | Midterm | . | Summer 2022 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) [Walkthrough] | Midterm, Final | . | Spring 2022 | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Exam (Solutions) [Walkthrough] | Midterm 1, Midterm 2, Final | . | Fall 2021 | Exam (Solutions) |   |   |   | . | Summer 2021 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2021 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2020 | Exam (Solutions) |   | Exam (Solutions) |   | . | Summer 2020 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) |   | . | Spring 2020 | Checkpoint (Solutions) |   | N/A | Checkpoint | . | Fall 2019 | Exam (Solutions) | Exam (Solutions) | Exam (Solutions) | Midterm 1 | . | Summer 2019 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2019 | Exam (Solutions) [Walkthrough] | Exam (Solutions) [Walkthrough] | Exam (Solutions) | Midterm 1 | . | Fall 2018 | Exam (Solutions) |   | Exam (Solutions) |   | . | Spring 2018 | Exam (Solutions) |   | Exam (Solutions) [Walkthrough] |   | . | Fall 2017 | Exam (Solutions) [Walkthrough] |   | Exam (Solutions) |   | . | Spring 2017 | Exam (Solutions) |   | Exam (Solutions) |   | . ",
     "url": "/su24/resources/#exam-resources",
     
     "relUrl": "/resources/#exam-resources"
@@ -295,7 +295,7 @@
   },"42": {
     "doc": "Staff",
     "title": "Leads",
-    "content": "Angela Feng she/her . anfeng2@berkeley.edu . hellooo :) . Jacob Yim he/him . jacobyim@berkeley.edu . I’m a (quasi-graduated) 5th year MS student in EECS, back for one last summer :,) Hope you enjoy Data 100! . Zekai Wang He/him/his . zekai.wang@berkeley.edu . Hi! I’m a rising junior studying CS. Looking forward to meeting you all! . ",
+    "content": "Angela Feng she/her . anfeng2@berkeley.edu . hellooo :) . Jacob Yim he/him . jacobyim@berkeley.edu . I’m a (mostly-graduated) 5th year MS student in EECS, back for one last summer :,) Hope you enjoy Data 100! . Zekai Wang He/him/his . zekai.wang@berkeley.edu . Hi! I’m a rising junior studying CS. Looking forward to meeting you all! . ",
     "url": "/su24/staff/#leads",
     
     "relUrl": "/staff/#leads"

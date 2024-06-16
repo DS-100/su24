@@ -6,4 +6,4 @@ website: https://jcbym.github.io/
 photo: http://ds100.org/su24/resources/assets/staff_pics/Jacob_Yim.jpg
 pronouns: he/him
 ---
-I'm a (quasi-graduated) 5th year MS student in EECS, back for one last summer :,) Hope you enjoy Data 100!
+I'm a (mostly-graduated) 5th year MS student in EECS, back for one last summer :,) Hope you enjoy Data 100!
