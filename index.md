@@ -19,7 +19,7 @@ UC Berkeley, Summer 2024
 [Datahub](http://data100.datahub.berkeley.edu/){:target="\_blank" .btn .btn-datahub .mr-1 }
 [Gradescope](){:target="\_blank" .btn .btn-gradescope .mr-1 }
 [Lectures Playlist](){:target="\_blank" .btn .btn-youtube .mr-1}
-[Extenuating Circumstances](){:target="\_blank" .btn .btn-blue .mr-1 }
+[Extenuating Circumstances](https://docs.google.com/forms/d/e/1FAIpQLSe637FZSvtd0zRtvs3jsTvHojF2HH90D_YR84YWIaRAaNxc5w/viewform?usp=sf_link){:target="\_blank" .btn .btn-blue .mr-1 }
 [Office Hours Queue](https://oh.ds100.org/){:target="\_blank" .btn .btn-oh .mr-1}
 
 <div>
@@ -30,10 +30,6 @@ UC Berkeley, Summer 2024
     {% endfor %}
   </div>
 </div>
-
-{: .highlight }
-
-> Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Data 100!
 
 
 <!-- {: .note }

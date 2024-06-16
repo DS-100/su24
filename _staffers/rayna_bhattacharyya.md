@@ -1,10 +1,9 @@
 ---
 name: Rayna Bhattacharyya
-role: UCS1
+role: UCS2
 email: rayna_b@berkeley.edu
-website:
-photo: http://ds100.org/sp24/resources/assets/staff_pics/Rayna_Bhattacharyya.jpg
-pronouns: She/Her/Hers
+website: 
+photo: http://ds100.org/su24/resources/assets/staff_pics/Rayna_Bhattacharyya.jpg
+pronouns: She/her
 ---
-
-Hey everyone! I'm a sophomore studying CS and Data science. I'm looking forward to meeting you all!
+Hi! I'm a rising Junior majoring in computer science and Data Science. This is my second semester teaching Data 100. Excited to work with you all! Feel free to reach out with any questions.

@@ -1,10 +1,9 @@
 ---
 name: Dan Nguyen
-role: UCS1
+role: UCS2
 email: danluunguyen@berkeley.edu
-website:
-photo: http://ds100.org/sp24/resources/assets/staff_pics/Dan_Nguyen.jpg
-pronouns: He/Him/His
+website: 
+photo: http://ds100.org/su24/resources/assets/staff_pics/Dan_Nguyen.jpg
+pronouns: he/him
 ---
-
-Hoi hoi! I'm a sophomore majoring in Computer Science, and I like to waste my money of coffee shops for the vibe <3333. Eager to meet you all!
+Howdy! I'm a CS+DS major from San Jose! I like to spend my time doing gymmy, binge watch shows(currently watching The Boys and Band of Brothers), and playing roblox horror/fighting games. Excited to meet yall!
