@@ -10,8 +10,7 @@ July 15
 : **Discussion 7**{: .label .label-disc } Gradient Descent and Feature Engineering
 
 July 16
-: **Lecture 16**{: .label .label-lecture} Midterm Review and Supplementary: Random Variables
-    : [Note 16](https://ds100.org/course-notes/probability_1/probability_1.html)
+: **Lecture 16**{: .label .label-lecture} TBD
 
 July 17
 : **Discussion 8**{: .label .label-disc } Exam Review

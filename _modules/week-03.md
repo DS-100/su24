@@ -14,10 +14,11 @@ July 2
 : **Homework 5**{: .label .label-hw } Bike Sharing (due 7/4)
 
 July 3
-: No Class
+: No Discussion
 
 July 4
-: No Class
+: No Lecture
 
 July 5
+: No Lecture
 : **Homework 6**{: .label .label-hw } Sampling and Modeling (due 7/8)

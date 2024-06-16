@@ -14,7 +14,7 @@ June 18
 : **Homework 1B**{: .label .label-hw } Prerequisite Math (due 6/20)
 
 June 19
-: No Class
+: Juneteenth
 
 June 20
 : **Lecture 3**{: .label .label-lecture} Pandas II
