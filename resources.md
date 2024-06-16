@@ -16,7 +16,7 @@ Jump to:
 {:toc}
 
 ## Reference Sheet
-Here is the Spring 2024 Final [Reference Sheet](assets/exams/sp24/ds100-sp24-final-ref.pdf){:target="_blank"}.
+An updated reference sheet will be shared closer to the start of the exam. For reference, we have provided the Spring 2024 Final [Reference Sheet](assets/exams/sp24/ds100-sp24-final-ref.pdf){:target="_blank"}.
 
 ## Supplementary Course Notes
 Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
@@ -33,8 +33,10 @@ Textbook readings are purely optional, and may contain material that is not in s
 {: .important }
 > Please refer to **[Data 100: Past Exam Common Questions](https://docs.google.com/document/d/e/2PACX-1vQm6iUDd-S2reyCNVHNgHKQTr7AqBQTbTEVew2POSvSAQLdpSPJb1OlYWsQ5wuFkVf1yHSVGXcta4Tv/pub)**, curating common exam-related questions we've seen on Ed over the past couple semesters, and corresponding staff responses. Feel free to make use of this resource when reviewing past exam questions.
 
+<!--
 {: .important }
 > Here is a list of [**out-of-scope past exam questions**](https://docs.google.com/document/d/1aAphTdNO1YddsyagOCV3WGI5wv6qwlZhtiEpQEwmrY0/edit?usp=sharing) for Spring 2024 Final.
+-->
 
 | Semester | Midterm 1 | Midterm 2  | Final | Reference Sheet |
 | -- | -- | -- | -- | -- |
