@@ -180,7 +180,7 @@ Course Communication:
     - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response. If you need to discuss a more sensitive matter, the following emails are monitored by a smaller subset of the teaching team:
 
 - For logistical questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors, the head TAs, and a few lead TAs.
-- For extenuating circumstances/DSP: student accommodation requests will be handled via the [Accommodations Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
+- For extenuating circumstances/DSP: student accommodation requests will be handled via the [Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe637FZSvtd0zRtvs3jsTvHojF2HH90D_YR84YWIaRAaNxc5w/viewform){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
     - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
 
 ## Policies
@@ -197,7 +197,7 @@ Course Communication:
 | Midterm Exam | 20% | |
 | Final Exam | 35% | |
 
-As mentioned above, students are provided with assignment drops for emergency situations that may come up unexpectedly. Only after using all drops, students facing **unforeseen significant life events** should complete the [Accommodations Form](https://forms.gle/HFdpmHzBu1e7zcF2A). A course staff member will reach out to you and provide a space for conversation, as well as potentially arrange accommodations as necessary.
+As mentioned above, students are provided with assignment drops for emergency situations that may come up unexpectedly. Only after using all drops, students facing **unforeseen significant life events** should complete the [Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe637FZSvtd0zRtvs3jsTvHojF2HH90D_YR84YWIaRAaNxc5w/viewform). A course staff member will reach out to you and provide a space for conversation, as well as potentially arrange accommodations as necessary.
 
 
 ### On-Time Submission
@@ -217,7 +217,7 @@ We recognize that life can be unexpected, and that you may face circumstances th
 If you encounter unforeseen life events at any time in the semester, please let us know. The sooner we are made aware, the more options we have available to us to help you.
 
 {: .important }
-Within two business days of filling out the **[Accommodations Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}**, we will reach out to you and provide a space for conversation, as well as potentially arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
+Within two business days of filling out the **[Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe637FZSvtd0zRtvs3jsTvHojF2HH90D_YR84YWIaRAaNxc5w/viewform){:target="_blank"}**, we will reach out to you and provide a space for conversation, as well as potentially arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
 
 We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). **Our drops policy combined with the accommodations form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term.** So please do not hesitate to reach out.
 
