@@ -8,7 +8,7 @@ markdown: kramdown
 course:
     semester: Summer 2024
     edstem: 
-    faq: https://ds100.org/faqs/sp24/
+    faq: https://ds100.org/faqs/su24/
     bcourses: ""
     instructors:
     head_ta_1:
@@ -119,7 +119,7 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 There are 4 live **lectures** held on Monday, Tuesday, Thursday, and Friday from 9:30am-11:00am in-person in Lewis 100. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture.
 
 **Lecture participation**: Lecture attendance is graded, we expect you to "participate" in lecture by answering poll questions during the lecture as they are launched. We will not be offering an asynchronous lecture participation option.
-- Lecture participation is graded using poll responses on a 0/1 basis. Complete at least one participation poll question during the live lecture timeslot (9:30am-11:30am on Monday, Tuesday, Thursday, and Friday). As long as you submit a response to at least one poll question in this timeframe, you will receive lecture attendance credit. In order to obtain full lecture attendance credit, students need to attend **20 lectures**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances.
+- Lecture participation is graded using poll responses on a 0/1 basis. Complete at least one participation poll question during the live lecture timeslot (9:30am-11:00am on Monday, Tuesday, Thursday, and Friday). As long as you submit a response to at least one poll question in this timeframe, you will receive lecture attendance credit. To receive full lecture attendance credit, students only need to attend 20 lectures in total. This policy accommodates for situations such as illness, personal emergencies, or other extenuating circumstances.
 - Alternatively, students with low attendance scores may shift this portion (2.5%) of their grade onto their final exam score. The instructors will automatically determine which grading policy will maximize a student’s final grade in the course at the end of the semester.
 - Please see the [Policies](#policies) section for more details.
 
@@ -129,7 +129,7 @@ Live **discussion sections** are one hour long, and held on Monday and Wednesday
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students attend discussion.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions. Discussion attendance is graded as follows:
 
-- Discussion attendance accounts for 2.5% of the overall grade. Each biweekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for (except for the first discussion of the term). In order to obtain full discussion attendance credit, students need to attend **10 discussion sections**. This policy is in place to account for illness, personal emergencies, or other extenuating circumstances.
+- Discussion attendance accounts for 2.5% of the overall grade. Each biweekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for (except for the first discussion of the term). In order to obtain full discussion attendance credit, students need to attend **10 discussion sections**. Akin to the lecture attendance policy, this policy accounts for illness, personal emergencies, or other extenuating circumstances.
 - Alternatively, students with low discussion attendance may shift this portion (2.5%) of their grade onto their final exam score. The instructors will automatically determine which grading policy will maximize a student’s final grade in the course at the end of the semester.
 - Please see the [Policies](#policies) section for more details.
 
@@ -226,7 +226,6 @@ Note that accommodations are not given in case of logistical oversight, such as 
 
 ### DSP Accommodations
 
-{: .important }
 If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. In this email, we will go over the extensions and other assignment and exam accommodations we will be offering you. Otherwise, email our student support team at [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). You are responsible for reasonable and timely communication with course staff.
 
 <!---
