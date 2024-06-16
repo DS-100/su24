@@ -12,10 +12,10 @@ June 18
     : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
 : **Homework 1A**{: .label .label-hw } Plotting and Permutation Tests (due 6/20)
 : **Homework 1B**{: .label .label-hw } Prerequisite Math (due 6/20)
+: **Discussion 1**{: .label .label-disc } Prerequisites (virtual walkthrough only)
 
 June 19
 : Juneteenth
-: **Discussion 1**{: .label .label-disc } Prerequisites (virtual walkthrough only)
 
 June 20
 : **Lecture 3**{: .label .label-lecture} Pandas II
