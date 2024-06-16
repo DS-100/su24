@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 July 8
-: **Lecture 11**{: .label .label-lecture} Constant model, Loss, and Transformations
+: **Lecture 11**{: .label .label-lecture} Constant Model, Loss, and Transformations
     : [Note 11](https://ds100.org/course-notes/constant_model_loss_transformations/loss_transformations.html)
 : **Lab 6**{: .label .label-lab }  Modeling, Loss Functions, and Summary Statistics (due 7/10)
 : **Discussion 5**{: .label .label-disc } Probability, Sampling, and Simple Linear Regression

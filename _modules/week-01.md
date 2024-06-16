@@ -5,7 +5,7 @@ title: Week 1
 June 17
 : **Lecture 1**{: .label .label-lecture } Course Overview
     : [Note 1](https://ds100.org/course-notes/intro_lec/introduction.html)
-: **Lab 1**{: .label .label-lab } Prerequisite Coding, Plotting & Permutation (due 6/19)
+: **Lab 1**{: .label .label-lab } Prerequisite Coding, Plotting, and Permutation (due 6/19)
 
 June 18
 : **Lecture 2**{: .label .label-lecture } Pandas I

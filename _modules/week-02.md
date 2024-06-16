@@ -6,7 +6,7 @@ title: Week 2
 June 24
 : **Lecture 5**{: .label .label-lecture} Data Wrangling and EDA I
     : [Note 5](https://ds100.org/course-notes/eda/eda.html)
-: **Lab 3**{: .label .label-lab } Data Cleaning and EDA (due 6/26)
+: **Lab 3**{: .label .label-lab } Data Wrangling and EDA (due 6/26)
 : **Discussion 2**{: .label .label-disc} Pandas
 
 June 25
@@ -15,7 +15,7 @@ June 25
 : **Homework 3**{: .label .label-hw } Food Safety II (due 6/27)
 
 June 26
-: **Discussion 3**{: .label .label-disc} EDA, Regex
+: **Discussion 3**{: .label .label-disc} Regex and EDA
 
 June 27
 : **Lecture 7**{: .label .label-lecture} Visualization I
