@@ -2,18 +2,27 @@
 title: Week 1
 ---
 
-Jan 16
-: **Lecture 1**{: .label .label-lecture } [Introduction](lecture/lec01)
+June 17
+: **Lecture 1**{: .label .label-lecture } Course Overview
     : [Note 1](https://ds100.org/course-notes/intro_lec/introduction.html)
-: **Lecture Participation 1**{: .label .label-survey } [Lecture Participation 1](https://app.sli.do/event/chu6qXaBnB85nJ94hxxLQS/embed/polls/778cb2fa-c709-4a6e-b177-fada34008037)
+: **Lab 1**{: .label .label-lab } Prerequisite Coding, Plotting & Permutation (due 6/19)
 
-Jan 18
-: **Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)
+June 18
+: **Lecture 2**{: .label .label-lecture } Pandas I
     : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
-: **Lecture Participation 2**{: .label .label-survey } [Lecture Participation 2](https://app.sli.do/event/gdKvBCZcJ6SdsycdrmYxeP/embed/polls/d3723264-c3c1-48d2-81a4-4afd69231056)
+: **Homework 1A**{: .label .label-hw } Plotting and Permutation Tests (due 6/20)
+: **Homework 1B**{: .label .label-hw } Prerequisite Math (due 6/20)
 
-Jan 19
-: **Lab 1**{: .label .label-lab } [Prerequisite Coding](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab01%2Flab01.ipynb&branch=main){:target="_blank"} (due Jan 23)
-: **Homework 1A**{: .label .label-hw } [Plotting and Permutation Test](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main){:target="_blank"} (due Jan 25)
-: **Homework 1B**{: .label .label-hw } [Prerequisite Math](https://drive.google.com/file/d/1RDPptF9z4SD9xl7SkchfrqTAyvU-oA8Q/view?usp=sharing){:target="_blank"} (due Jan 25)
+June 19
+: No Class
 
+June 20
+: **Lecture 3**{: .label .label-lecture} Pandas II
+    : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
+: **Lab 2**{: .label .label-lab } Pandas (due 6/23)
+: **Discussion 1**{: .label .label-disc } Prerequisites
+
+June 21
+: **Lecture 4**{: .label .label-lecture } Pandas III
+    : [Note 4](https://ds100.org/course-notes/pandas_3/pandas_3.html)
+: **Homework 2**{: .label .label-hw } Food Safety I (due 6/24)

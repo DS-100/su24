@@ -2,20 +2,26 @@
 title: Week 7
 ---
 
-Feb 27
-: **Lecture 13**{: .label .label-lecture} [Gradient descent / sklearn](lecture/lec13)
-    : [Note 13](https://ds100.org/course-notes/gradient_descent/gradient_descent.html)
-: **Lecture Participation 13**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/2HTD1yqcaC7F3RL1nok8jw/embed/polls/f84bcceb-e12f-4ef6-9f03-4aac2a26db58)
+July 29
+: **Lecture 22**{: .label .label-lecture} Logistic Regression II
+    : [Note 22](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html)
+: **Lab 12**{: .label .label-lab } Logistic Regression (due 7/31)
+: **Project B1**{: .label .label-proj } Spam and Ham I (due 8/1)
+: **Discussion 11**{: .label .label-disc } SQL
 
-: **Discussion 6**{: .label .label-disc } [Constant Models, OLS, and Multiple Linear Regression](https://drive.google.com/file/d/1XdbKUvIKYVHBW3BSAXyIQIRdxm5i1iwN/view)
-    : [Solution](https://drive.google.com/file/d/1UNM97mS6jnd1xFVytHj4aMKhreuVvhCn/view){:target="_blank"}, [Video](https://youtu.be/v84--jUZR9o){:target="_blank"}
+July 30
+: **Lecture 23**{: .label .label-lecture} Ensembles
 
-Feb 29
-: **Lecture 14**{: .label .label-lecture} [Feature Engineering](lecture/lec14)
-    : [Note 14](https://ds100.org/course-notes/feature_engineering/feature_engineering.html)
-: **Lecture Participation 14**{: .label .label-survey } [Lecture Participation 14](https://app.sli.do/event/dEhz5DBPDgMvTrEUJdJe8B/embed/polls/eeba6954-121e-44b0-8396-4e8cb3282ee6)
-: **Exam Prep 5**{: .label .label-vit } [OLS](https://drive.google.com/file/d/1y5itmGnFxa8S-hC9s0ooGbm8gVn_uQnV/view?usp=sharing)
-    : [Solution](https://drive.google.com/file/d/1gi-r9e_kpQZXfCM4RIUigwCnzzWl2LgC/view?usp=sharing), [Video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoZtH_MI6N7Dpv9hxXkVtPE)
+July 31
+: **Discussion 12**{: .label .label-disc } Logistic Regression
 
-Mar 1
-: **Lab 6**{: .label .label-lab }  [OLS](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp24-student&urlpath=lab%2Ftree%2Fsp24-student%2Flab%2Flab06%2Flab06.ipynb&branch=main) (due Mar 5)
+August 1
+: **Lecture 24**{: .label .label-lecture} PCA
+    : [Note 24](https://ds100.org/course-notes/pca_1/pca_1.html)
+: **Lab 13**{: .label .label-lab } PCA (due 8/4)
+
+August 2
+: **Lecture 25**{: .label .label-lecture} Clustering
+    : [Note 25](https://ds100.org/course-notes/clustering/clustering.html)
+: **Project B2**{: .label .label-proj } Spam and Ham II (due 8/5)
+: **Homework 10**{: .label .label-hw } PCA and Clustering (due 8/5)
