@@ -15,12 +15,12 @@ June 18
 
 June 19
 : Juneteenth
+: **Discussion 1**{: .label .label-disc } Prerequisites (virtual walkthrough only)
 
 June 20
 : **Lecture 3**{: .label .label-lecture} Pandas II
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
 : **Lab 2**{: .label .label-lab } Pandas (due 6/23)
-: **Discussion 1**{: .label .label-disc } Prerequisites
 
 June 21
 : **Lecture 4**{: .label .label-lecture } Pandas III

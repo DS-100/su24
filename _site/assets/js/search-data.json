@@ -22,21 +22,21 @@
   },"3": {
     "doc": "Calendar",
     "title": "Calendar",
-    "content": ". | Office Hours Calendar | Lecture, Discussion, and Special Events Calendar | . If you are having trouble viewing the calendars below and are using Safari, we suggest switching to an alternate browser (like Chrome). Alternatively, you can go to Safari settings and switch “Prevent cross-site tracking” off, or you can see the Calendar here . ",
+    "content": "If you are having trouble viewing the calendars below and are using Safari, we suggest switching to an alternate browser (like Chrome). Alternatively, you can go to Safari settings and switch “Prevent cross-site tracking” off, or you can see the Calendar here . ",
     "url": "/su24/calendar/",
     
     "relUrl": "/calendar/"
   },"4": {
     "doc": "Calendar",
     "title": "Course Calendar",
-    "content": "Office hours are displayed in blue. You should come to these with questions about anything – labs, homeworks, discussions, concepts, etc. These office hours will be held in-person in Warren Hall 101B, unless otherwise noted. To access office hours, go to the room in the location of the office hour slot you’re planning on attending, place your ticket on the queue and then a course staff member will call your name when it’s your turn. Instructor office hours with Maya and Kevin appear in red. You should come to these with questions about concepts. We have also added the following events to the calendar: . | Lectures (in brown) | Exam prep sections and other reviews (in orange) | . ",
+    "content": "Office hours are displayed in blue. You should come to these with questions about anything – labs, homeworks, discussions, concepts, etc. These office hours will be held in-person in Warren Hall 101B Quadrant E, unless otherwise noted. To access office hours, go to the room in the location of the office hour slot you’re planning on attending, place your ticket on the queue and then a course staff member will call your name when it’s your turn. Instructor office hours with Maya and Kevin appear in red. You should come to these with questions about concepts. We have also added the following events to the calendar: . | Lectures (in brown) | . ",
     "url": "/su24/calendar/#course-calendar",
     
     "relUrl": "/calendar/#course-calendar"
   },"5": {
     "doc": "Home / Schedule",
     "title": "Data 100: Principles and Techniques of Data Science",
-    "content": "UC Berkeley, Summer 2024 . Ed Datahub Gradescope Lectures Playlist Emergency Accommodations Office Hours Queue . Kevin Miao he/him . kevinmiao@berkeley.edu . Maya Shen She/her/hers . mayashen@berkeley.edu . na . ",
+    "content": "UC Berkeley, Summer 2024 . Ed Datahub Gradescope Lectures Playlist Emergency Accommodations Office Hours Queue . Kevin Miao He/Him/His . kevinmiao@berkeley.edu . Maya Shen She/Her/Hers . mayashen@berkeley.edu . ",
     "url": "/su24/#data-100-principles-and-techniques-of-data-science",
     
     "relUrl": "/#data-100-principles-and-techniques-of-data-science"
@@ -50,7 +50,7 @@
   },"7": {
     "doc": "Home / Schedule",
     "title": "Week 1",
-    "content": "June 17 Lecture 1 Course Overview Note 1 Lab 1 Prerequisite Coding, Plotting, and Permutation (due 6/19) June 18 Lecture 2 Pandas I Note 2 Homework 1A Plotting and Permutation Tests (due 6/20) Homework 1B Prerequisite Math (due 6/20) June 19 No Class June 20 Lecture 3 Pandas II Note 3 Lab 2 Pandas (due 6/23) Discussion 1 Prerequisites June 21 Lecture 4 Pandas III Note 4 Homework 2 Food Safety I (due 6/24) ",
+    "content": "June 17 Lecture 1 Course Overview Note 1 Lab 1 Prerequisite Coding, Plotting, and Permutation (due 6/19) June 18 Lecture 2 Pandas I Note 2 Homework 1A Plotting and Permutation Tests (due 6/20) Homework 1B Prerequisite Math (due 6/20) June 19 Juneteenth June 20 Lecture 3 Pandas II Note 3 Lab 2 Pandas (due 6/23) Discussion 1 Prerequisites June 21 Lecture 4 Pandas III Note 4 Homework 2 Food Safety I (due 6/24) ",
     "url": "/su24/#week-1",
     
     "relUrl": "/#week-1"
@@ -64,7 +64,7 @@
   },"9": {
     "doc": "Home / Schedule",
     "title": "Week 3",
-    "content": "July 1 Lecture 9 Sampling Note 9 Lab 5 Transformations (due 7/3) Discussion 4 Visualization and Transformation July 2 Lecture 10 Modeling and SLR Note 10 Homework 5 Bike Sharing (due 7/4) July 3 No Class July 4 No Class July 5 Homework 6 Sampling and Modeling (due 7/8) ",
+    "content": "July 1 Lecture 9 Sampling Note 9 Lab 5 Transformations (due 7/3) Discussion 4 Visualization and Transformation July 2 Lecture 10 Modeling and SLR Note 10 Homework 5 Bike Sharing (due 7/4) July 3 No Discussion July 4 No Lecture July 5 No Lecture Homework 6 Sampling and Modeling (due 7/8) ",
     "url": "/su24/#week-3",
     
     "relUrl": "/#week-3"
@@ -78,7 +78,7 @@
   },"11": {
     "doc": "Home / Schedule",
     "title": "Week 5",
-    "content": "July 15 Lecture 15 Cross-Validation and Regularization Note 15 Lab 8 Gradient Descent and Feature Engineering (due 7/17) Project A2 Housing II (due 7/18) Discussion 7 Gradient Descent and Feature Engineering July 16 Lecture 16 Midterm Review and Supplementary: Random Variables Note 16 July 17 Discussion 8 Exam Review July 18 Lecture 17 Case Study (HCE): CCAO Note 17 Lab 9 Model Selection, Regularization, and Cross-Validation (due 7/21) July 19 Midterm Midterm ",
+    "content": "July 15 Lecture 15 Cross-Validation and Regularization Note 15 Lab 8 Gradient Descent and Feature Engineering (due 7/17) Project A2 Housing II (due 7/18) Discussion 7 Gradient Descent and Feature Engineering July 16 Lecture 16 TBD July 17 Discussion 8 Exam Review July 18 Lecture 17 Case Study (HCE): CCAO Note 17 Lab 9 Model Selection, Regularization, and Cross-Validation (due 7/21) July 19 Midterm Midterm ",
     "url": "/su24/#week-5",
     
     "relUrl": "/#week-5"
@@ -288,28 +288,28 @@
   },"41": {
     "doc": "Staff",
     "title": "Instructors",
-    "content": "Kevin Miao he/him . kevinmiao@berkeley.edu . Maya Shen She/her/hers . mayashen@berkeley.edu . na . ",
+    "content": "Kevin Miao He/Him/His . kevinmiao@berkeley.edu . Maya Shen She/Her/Hers . mayashen@berkeley.edu . ",
     "url": "/su24/staff/#instructors",
     
     "relUrl": "/staff/#instructors"
   },"42": {
     "doc": "Staff",
     "title": "Leads",
-    "content": "Angela Feng she/her . anfeng2@berkeley.edu . hellooo :) . Jacob Yim he/him . jacobyim@berkeley.edu . I’m a (mostly-graduated) 5th year MS student in EECS, back for one last summer :,) Hope you enjoy Data 100! . Zekai Wang He/him/his . zekai.wang@berkeley.edu . Hi! I’m a rising junior studying CS. Looking forward to meeting you all! . ",
+    "content": "Angela Feng She/Her/Hers . anfeng2@berkeley.edu . hellooo :) . Jacob Yim He/Him/His . jacobyim@berkeley.edu . I’m a (mostly-graduated) 5th year MS student in EECS, back for one last summer :,) Hope you enjoy Data 100! . Zekai Wang He/Him/His . zekai.wang@berkeley.edu . Hi! I’m a rising junior studying CS. Looking forward to meeting you all! . ",
     "url": "/su24/staff/#leads",
     
     "relUrl": "/staff/#leads"
   },"43": {
     "doc": "Staff",
     "title": "UCS2s",
-    "content": "Aditi Somayajula she/her . aditi.somayajula@berkeley.edu . Hello! I am a fourth-year majoring in Computer Science. Looking forward to this semester! . Anya Agarwal she/her . anya.agarwal@berkeley.edu . Hi! I’m an incoming fourth year studying computer science. I love exploring new coffee shops, reading, 3D modeling/animating, and cultivating my Stardew Valley farm. Feel free to reach out anytime with questions or just to chat :) . Boyu Fan He/Him . david_fan1@berkeley.edu . Hi everyone, I’m Boyu(Boris), studying Data Science and Statistics. Let’s embrace the possibilities in Data Science! . Dan Nguyen he/him . danluunguyen@berkeley.edu . Howdy! I’m a CS+DS major from San Jose! I like to spend my time doing gymmy, binge watch shows(currently watching The Boys and Band of Brothers), and playing roblox horror/fighting games. Excited to meet yall! . Rayna Bhattacharyya She/her . rayna_b@berkeley.edu . Hi! I’m a rising Junior majoring in computer science and Data Science. This is my second semester teaching Data 100. Excited to work with you all! Feel free to reach out with any questions. Xiaorui Liu he/him . xiaoruiliu@berkeley.edu . Hi all! I’m a rising senior studying CS, DS, and History. I like eating yummy food :). I hope y’all have a fantastic summer! . ",
+    "content": "Aditi Somayajula She/Her/Hers . aditi.somayajula@berkeley.edu . Hello! I am a fourth-year majoring in Computer Science. Looking forward to this semester! . Anya Agarwal She/Her/Hers . anya.agarwal@berkeley.edu . Hi! I’m an incoming fourth year studying computer science. I love exploring new coffee shops, reading, 3D modeling/animating, and cultivating my Stardew Valley farm. Feel free to reach out anytime with questions or just to chat :) . Boyu Fan He/Him/His . david_fan1@berkeley.edu . Hi everyone, I’m Boyu(Boris), studying Data Science and Statistics. Let’s embrace the possibilities in Data Science! . Dan Nguyen He/Him/His . danluunguyen@berkeley.edu . Howdy! I’m a CS+DS major from San Jose! I like to spend my time doing gymmy, binge watch shows(currently watching The Boys and Band of Brothers), and playing roblox horror/fighting games. Excited to meet yall! . Rayna Bhattacharyya She/Her/Hers . rayna_b@berkeley.edu . Hi! I’m a rising Junior majoring in computer science and Data Science. This is my second semester teaching Data 100. Excited to work with you all! Feel free to reach out with any questions. Xiaorui Liu He/Him/His . xiaoruiliu@berkeley.edu . Hi all! I’m a rising senior studying CS, DS, and History. I like eating yummy food :). I hope y’all have a fantastic summer! . ",
     "url": "/su24/staff/#ucs2s",
     
     "relUrl": "/staff/#ucs2s"
   },"44": {
     "doc": "Staff",
     "title": "UCS1s",
-    "content": "Alana Yang she/her . alanayang@berkeley.edu . Hi, I’m Alana! I’m a rising senior studying Molecular &amp; Cell Biology and Data Science. Looking forward to a great summer w everyone :) . Gisella Chan she/her . gisellachan@berkeley.edu . Hello! I’m a rising junior studying CS + DS. Looking forward to having a great summer with y’all :-) . Jake Pastoria He/Him . jakepastoria@berkeley.edu . Hi everyone, my name is Jake and I am an undergrad transfer student studying Data Science and Computer Science! I’m originally from Los Angeles, where I spent most of my time playing ice hockey, but now that I’m in Berkeley most of my day consists of missing my Shiba Inu back at home. James Geronimo he/him . jegeronimo@berkeley.edu . Hello! I’m a rising junior studying CS and Data Science. Outside of school, I enjoy playing basketball, volleyball, video games, and listening to music. Looking forward to meeting you all! . Rohan Bijukumar he/him/his . rohanbijukumar@berkeley.edu . Hi there! I’m starting my second year at Berkeley double majoring in Computer Science and Data Science. This is my first time helping out with Data C100, so I’m looking forward to a smooth and engaging Summer 2024. Vicky Huang she/her . vicky.huang@berkeley.edu . I’m Vicky, and I really like boba. On the side, I take cs/ds classes. Willy Guan he/him . willyguan@berkeley.edu . Hello! I’m a junior from SoCal majoring in DS and Applied Math, and I’m super excited to work with you all this summer! . ",
+    "content": "Alana Yang She/Her/Hers . alanayang@berkeley.edu . Hi, I’m Alana! I’m a rising senior studying Molecular &amp; Cell Biology and Data Science. Looking forward to a great summer w everyone :) . Gisella Chan She/Her/Hers . gisellachan@berkeley.edu . Hello! I’m a rising junior studying CS + DS. Looking forward to having a great summer with y’all :-) . Jake Pastoria He/Him/His . jakepastoria@berkeley.edu . Hi everyone, my name is Jake and I am an undergrad transfer student studying Data Science and Computer Science! I’m originally from Los Angeles, where I spent most of my time playing ice hockey, but now that I’m in Berkeley most of my day consists of missing my Shiba Inu back at home. James Geronimo He/Him/His . jegeronimo@berkeley.edu . Hello! I’m a rising junior studying CS and Data Science. Outside of school, I enjoy playing basketball, volleyball, video games, and listening to music. Looking forward to meeting you all! . Rohan Bijukumar He/Him/His . rohanbijukumar@berkeley.edu . Hi there! I’m starting my second year at Berkeley double majoring in Computer Science and Data Science. This is my first time helping out with Data C100, so I’m looking forward to a smooth and engaging Summer 2024. Vicky Huang She/Her/Hers . vicky.huang@berkeley.edu . I’m Vicky, and I really like boba. On the side, I take cs/ds classes. Willy Guan He/Him/His . willyguan@berkeley.edu . Hello! I’m a junior from SoCal majoring in DS and Applied Math, and I’m super excited to work with you all this summer! . ",
     "url": "/su24/staff/#ucs1s",
     
     "relUrl": "/staff/#ucs1s"
