@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 June 17
-: **Lecture 1**{: .label .label-lecture } Course Overview
+: **Lecture 1**{: .label .label-lecture } [Course Overview](lecture/lec01)
     : [Note 1](https://ds100.org/course-notes/intro_lec/introduction.html)
 : **Lab 1**{: .label .label-lab } Prerequisite Coding, Plotting, and Permutation (due 6/19)
 
