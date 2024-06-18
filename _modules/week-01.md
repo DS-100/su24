@@ -5,7 +5,7 @@ title: Week 1
 June 17
 : **Lecture 1**{: .label .label-lecture } [Course Overview](lecture/lec01)
     : [Note 1](https://ds100.org/course-notes/intro_lec/introduction.html)
-: **Lab 1**{: .label .label-lab } Prerequisite Coding, Plotting, and Permutation (due 6/19)
+: **Lab 1**{: .label .label-lab } [Prerequisite Coding, Plotting, and Permutation](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab01%2Flab01.ipynb&branch=main) (due 6/20)
 
 June 18
 : **Lecture 2**{: .label .label-lecture } Pandas I
