@@ -8,7 +8,7 @@ June 17
 : **Lab 1**{: .label .label-lab } [Prerequisite Coding, Plotting, and Permutation](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab01%2Flab01.ipynb&branch=main) (due 6/20)
 
 June 18
-: **Lecture 2**{: .label .label-lecture } Pandas I
+: **Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)
     : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
 : **Homework 1A**{: .label .label-hw } Plotting and Permutation Tests (due 6/20)
 : **Homework 1B**{: .label .label-hw } Prerequisite Math (due 6/20)
