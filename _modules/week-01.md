@@ -12,7 +12,8 @@ June 18
     : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
 : **Homework 1A**{: .label .label-hw } [Plotting and Permutation Tests](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main) (due 6/20)
 : **Homework 1B**{: .label .label-hw } [Prerequisite Math](https://drive.google.com/file/d/1zewQwC8kWHYkegZNkUihQv98j0i0U_67/view?usp=sharing) (due 6/20)
-: **Discussion 1**{: .label .label-disc } Prerequisites (virtual walkthrough only)
+: **Discussion 1**{: .label .label-disc } [Prerequisites (virtual walkthrough only)](https://drive.google.com/file/d/1wPte7pr_7bTh6pwzSk41tpKYFyM5pBrF/view?usp=sharing)
+    : [Solutions](https://drive.google.com/file/d/1Y4aQXsN9aqf6rPkKg_xLt6f7U4mzk05K/view?usp=sharing)
 
 June 19
 : Juneteenth
