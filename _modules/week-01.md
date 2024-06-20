@@ -19,7 +19,7 @@ June 19
 : Juneteenth
 
 June 20
-: **Lecture 3**{: .label .label-lecture} Pandas II
+: **Lecture 3**{: .label .label-lecture} [Pandas II](lecture/lec03)
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
 : **Lab 2**{: .label .label-lab } Pandas (due 6/23)
 
