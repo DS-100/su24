@@ -252,7 +252,7 @@ Regrade requests will **not** be considered in cases in which:
 
 ### Collaboration Policy and Academic Honesty
 
-We will be following the [EECS departmental policy on Academic Honesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty){:target="_blank"}, which states that using work or resources that are not your own or not permitted by the course may lead to disciplinary actions, including a failing grade in the course.
+We will be following the [EECS departmental policy on Academic Honesty](https://eecs.berkeley.edu/resources/students/academic-misconduct){:target="_blank"}, which states that using work or resources that are not your own or not permitted by the course may lead to disciplinary actions, including a failing grade in the course.
 
 **Assignments.** Data science is a collaborative activity. While you may talk with others about the homework and projects, we ask that you write your solutions individually in your own words. **If you do discuss the assignments with others please include their names at the top of your notebook.** Restated, you and your friends are encouraged to discuss course content and approaches to problem-solving, but you are not allowed to share your code nor answers with other students, nor are you allowed to post your assignment solutions publicly. Doing so is considered academic misconduct. We will be running advanced plagiarism detection programs on all assignments. **Use of AI-assisted methods, such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited.**
 
