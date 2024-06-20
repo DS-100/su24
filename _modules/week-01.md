@@ -21,7 +21,7 @@ June 19
 June 20
 : **Lecture 3**{: .label .label-lecture} [Pandas II](lecture/lec03)
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
-: **Lab 2**{: .label .label-lab } Pandas (due 6/23)
+: **Lab 2**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab02%2Flab02.ipynb&branch=main) (due 6/23)
 
 June 21
 : **Lecture 4**{: .label .label-lecture } Pandas III
