@@ -26,4 +26,4 @@ June 20
 June 21
 : **Lecture 4**{: .label .label-lecture } [Pandas III](lecture/lec04)
     : [Note 4](https://ds100.org/course-notes/pandas_3/pandas_3.html)
-: **Homework 2**{: .label .label-hw } Food Safety I (due 6/24)
+: **Homework 2**{: .label .label-hw } [Food Safety I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main) (due 6/24)
