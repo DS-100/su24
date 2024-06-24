@@ -7,7 +7,7 @@ June 24
 : **Lecture 5**{: .label .label-lecture} [Data Wrangling and EDA I](lecture/lec05)
     : [Note 5](https://ds100.org/course-notes/eda/eda.html)
 : **Lab 3**{: .label .label-lab } Data Wrangling and EDA (due 6/26)
-: **Discussion 2**{: .label .label-disc} Pandas
+: **Discussion 2**{: .label .label-disc } [Pandas](https://drive.google.com/file/d/1EKrrv1e5S9Ne3KJ-DRBu49zmedK9v7Hm/view?usp=sharing)
 
 June 25
 : **Lecture 6**{: .label .label-lecture} Data Wrangling and EDA II, Regex
