@@ -4,7 +4,7 @@ title: Week 2
 
 
 June 24
-: **Lecture 5**{: .label .label-lecture} Data Wrangling and EDA I
+: **Lecture 5**{: .label .label-lecture} [Data Wrangling and EDA I](lecture/lec05)
     : [Note 5](https://ds100.org/course-notes/eda/eda.html)
 : **Lab 3**{: .label .label-lab } Data Wrangling and EDA (due 6/26)
 : **Discussion 2**{: .label .label-disc} Pandas
