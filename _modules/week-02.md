@@ -13,7 +13,7 @@ June 24
 June 25
 : **Lecture 6**{: .label .label-lecture} [Text Wrangling and Regex](lecture/lec06)
     : [Note 6](https://ds100.org/course-notes/regex/regex.html)
-: **Homework 3**{: .label .label-hw } Food Safety II (due 6/27)
+: **Homework 3**{: .label .label-hw } [Food Safety II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main) (due 6/27)
 
 June 26
 : **Discussion 3**{: .label .label-disc} Regex and EDA
