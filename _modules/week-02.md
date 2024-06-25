@@ -10,7 +10,7 @@ June 24
 : **Discussion 2**{: .label .label-disc } [Pandas](https://drive.google.com/file/d/1EKrrv1e5S9Ne3KJ-DRBu49zmedK9v7Hm/view?usp=sharing) [(Worksheet Notebook)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fdisc%2Fdisc02%2Fdisc02-worksheet-blank.ipynb&branch=main) [(Groupwork Notebook)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fdisc%2Fdisc02%2Fdisc02_groupwork_blank.ipynb&branch=main)
 
 June 25
-: **Lecture 6**{: .label .label-lecture} Data Wrangling and EDA II, Regex
+: **Lecture 6**{: .label .label-lecture} [Data Wrangling and EDA II, Regex](lecture/lec06)
     : [Note 6](https://ds100.org/course-notes/regex/regex.html)
 : **Homework 3**{: .label .label-hw } Food Safety II (due 6/27)
 
