@@ -16,7 +16,7 @@ June 25
 : **Homework 3**{: .label .label-hw } [Food Safety II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main) (due 6/27)
 
 June 26
-: **Discussion 3**{: .label .label-disc} Regex and EDA
+: **Discussion 3**{: .label .label-disc } [Regex and EDA](https://drive.google.com/file/d/1dleqSUMOcPS8_PfcCPhciy6X-Z8TdnTI/view?usp=sharing)
 
 June 27
 : **Lecture 7**{: .label .label-lecture} Visualization I
