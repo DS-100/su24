@@ -11,7 +11,7 @@ June 24
     : [Worksheet Solutions](https://drive.google.com/file/d/1xx9WTqi_8Sq5aWmj_1gNDZr60v_RCXri/view?usp=sharing) [Groupwork Solutions](https://drive.google.com/file/d/1QNv-rtrmk7Il-vI1Ay6Kciw9gTukwWVr/view?usp=sharing)
 
 June 25
-: **Lecture 6**{: .label .label-lecture} [Data Wrangling and EDA II, Regex](lecture/lec06)
+: **Lecture 6**{: .label .label-lecture} [Text Wrangling and Regex](lecture/lec06)
     : [Note 6](https://ds100.org/course-notes/regex/regex.html)
 : **Homework 3**{: .label .label-hw } Food Safety II (due 6/27)
 

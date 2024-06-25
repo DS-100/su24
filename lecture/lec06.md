@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 6 - Data Wrangling and EDA II, Regex
+title: Lecture 6 - Text Wrangling and Regex
 nav_exclude: true
 ---
 
-# Lecture 6 - Data Wrangling and EDA II, Regex
+# Lecture 6 - Text Wrangling and Regex
 
 Presented by Maya Shen
 
