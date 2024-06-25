@@ -57,7 +57,7 @@
   },"8": {
     "doc": "Home / Schedule",
     "title": "Week 2",
-    "content": "June 24 Lecture 5 Data Wrangling and EDA I Note 5 Lab 3 Data Wrangling and EDA (due 6/26) Discussion 2 Pandas June 25 Lecture 6 Data Wrangling and EDA II, Regex Note 6 Homework 3 Food Safety II (due 6/27) June 26 Discussion 3 Regex and EDA June 27 Lecture 7 Visualization I Note 7 Lab 4 Regex and EDA (due 6/30) June 28 Lecture 8 Visualization II Note 8 Homework 4 Text Analysis of Bloomberg Articles (due 7/1) ",
+    "content": "June 24 Lecture 5 Data Wrangling and EDA I Note 5 Lab 3 Data Wrangling and EDA (due 6/26) Discussion 2 Pandas (Worksheet Notebook) (Groupwork Notebook) Worksheet Solutions Groupwork Solutions June 25 Lecture 6 Data Wrangling and EDA II, Regex Note 6 Homework 3 Food Safety II (due 6/27) June 26 Discussion 3 Regex and EDA June 27 Lecture 7 Visualization I Note 7 Lab 4 Regex and EDA (due 6/30) June 28 Lecture 8 Visualization II Note 8 Homework 4 Text Analysis of Bloomberg Articles (due 7/1) ",
     "url": "/su24/#week-2",
     
     "relUrl": "/#week-2"
