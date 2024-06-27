@@ -20,7 +20,7 @@ June 26
     : [Solutions](https://drive.google.com/file/d/145rJKUf44a_EQpObVJPELmRez22iT05d/view?usp=sharing)
 
 June 27
-: **Lecture 7**{: .label .label-lecture} Visualization I
+: **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
     : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
 : **Lab 4**{: .label .label-lab } Regex and EDA (due 6/30)
 
