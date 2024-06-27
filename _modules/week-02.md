@@ -17,6 +17,7 @@ June 25
 
 June 26
 : **Discussion 3**{: .label .label-disc } [Regex and EDA](https://drive.google.com/file/d/1dleqSUMOcPS8_PfcCPhciy6X-Z8TdnTI/view?usp=sharing)
+    : [Solutions](https://drive.google.com/file/d/145rJKUf44a_EQpObVJPELmRez22iT05d/view?usp=sharing)
 
 June 27
 : **Lecture 7**{: .label .label-lecture} Visualization I
