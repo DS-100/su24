@@ -25,6 +25,6 @@ June 27
 : **Lab 4**{: .label .label-lab } [Regex and EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab04%2Flab04.ipynb&branch=main) (due 6/30)
 
 June 28
-: **Lecture 8**{: .label .label-lecture} Visualization II
+: **Lecture 8**{: .label .label-lecture} [Visualization II (Guest: Jun Yuan)](lecture/lec08)
     : [Note 8](https://ds100.org/course-notes/visualization_2/visualization_2.html)
 : **Homework 4**{: .label .label-hw } Text Analysis of Bloomberg Articles (due 7/1)
