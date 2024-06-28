@@ -27,4 +27,4 @@ June 27
 June 28
 : **Lecture 8**{: .label .label-lecture} [Visualization II (Guest: Jun Yuan)](lecture/lec08)
     : [Note 8](https://ds100.org/course-notes/visualization_2/visualization_2.html)
-: **Homework 4**{: .label .label-hw } Text Analysis of Bloomberg Articles (due 7/1)
+: **Homework 4**{: .label .label-hw } [Text Analysis of Bloomberg Articles](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main) (due 7/1)
