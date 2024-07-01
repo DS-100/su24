@@ -3,7 +3,7 @@ title: Week 3
 ---
 
 July 1
-: **Lecture 9**{: .label .label-lecture} Sampling
+: **Lecture 9**{: .label .label-lecture} [Sampling](lecture/lec09)
     : [Note 9](https://ds100.org/course-notes/sampling/sampling.html)
 : **Lab 5**{: .label .label-lab } Transformations (due 7/3)
 : **Discussion 4**{: .label .label-disc } Visualization and Transformation
