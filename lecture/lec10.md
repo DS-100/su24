@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Lecture 9 - Sampling
+title: Lecture 10 - Modeling and SLR
 nav_exclude: true
 ---
 
-# Lecture 9 - Sampling
+# Lecture 10 - Modeling and SLR
 
-Presented by Kevin Miao
+Presented by Maya Shen
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 
-- [slides](https://docs.google.com/presentation/d/1S7f_D8p-RTpIH9y0i2yPwMWIboLSgeixaHFn9HvUDMA/edit#slide=id.g274eac49755_0_429){:target="_blank"}
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flecture%2Flec09%2Flec09.ipynb&branch=main){:target="_blank"}
+- [slides](https://docs.google.com/presentation/d/1U-FX2GRmZI0OKmpwqbX6J-oxHk1bypy4UhZR6Z9rf7Y/edit?usp=sharing){:target="_blank"}
