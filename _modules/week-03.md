@@ -9,7 +9,7 @@ July 1
 : **Discussion 4**{: .label .label-disc } [Visualization and Transformation](https://drive.google.com/file/d/1kk9qeNQ0gBM5nevUujpXCMBGJI7V6n7E/view?usp=sharing)
 
 July 2
-: **Lecture 10**{: .label .label-lecture} Modeling and SLR
+: **Lecture 10**{: .label .label-lecture} [Modeling and SLR](lecture/lec10)
     : [Note 10](https://ds100.org/course-notes/intro_to_modeling/intro_to_modeling.html)
 : **Homework 5**{: .label .label-hw } Bike Sharing (due 7/4)
 
