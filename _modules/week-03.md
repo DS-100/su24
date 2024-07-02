@@ -12,7 +12,7 @@ July 1
 July 2
 : **Lecture 10**{: .label .label-lecture} [Modeling and SLR](lecture/lec10)
     : [Note 10](https://ds100.org/course-notes/intro_to_modeling/intro_to_modeling.html)
-: **Homework 5**{: .label .label-hw } [Bike Sharing](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main) (due 7/4)
+: **Homework 5**{: .label .label-hw } [Bike Sharing]() (due 7/4)
 
 July 3
 : No Discussion
