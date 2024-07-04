@@ -19,7 +19,7 @@ July 3
 
 July 4
 : No Lecture
+: **Homework 6**{: .label .label-hw } [Sampling and Modeling](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw06%2Fhw06.ipynb&branch=main) (due 7/8)
 
 July 5
 : No Lecture
-: **Homework 6**{: .label .label-hw } Sampling and Modeling (due 7/8)
