@@ -5,7 +5,7 @@ title: Week 4
 July 8
 : **Lecture 11**{: .label .label-lecture} [Constant Model, Loss, and Transformations](lecture/lec11)
     : [Note 11](https://ds100.org/course-notes/constant_model_loss_transformations/loss_transformations.html)
-: **Lab 6**{: .label .label-lab }  Modeling, Loss Functions, and Summary Statistics (due 7/10)
+: **Lab 6**{: .label .label-lab }  [Modeling, Loss Functions, and Summary Statistics](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab06%2Flab06.ipynb&branch=main) (due 7/10)
 : **Discussion 5**{: .label .label-disc } [Probability, Sampling, and Simple Linear Regression](https://drive.google.com/file/d/1Rq7qrGeNS92ABborXMvYQkPal9nrnWZX/view?usp=sharing)
 
 July 9
