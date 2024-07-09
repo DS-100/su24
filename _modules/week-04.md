@@ -9,7 +9,7 @@ July 8
 : **Discussion 5**{: .label .label-disc } [Probability, Sampling, and Simple Linear Regression](https://drive.google.com/file/d/1Rq7qrGeNS92ABborXMvYQkPal9nrnWZX/view?usp=sharing)
 
 July 9
-: **Lecture 12**{: .label .label-lecture} OLS (Multiple Regression)
+: **Lecture 12**{: .label .label-lecture} [OLS (Multiple Regression)](lecture/lec12)
     : [Note 12](https://ds100.org/course-notes/ols/ols.html)
 : **Homework 7**{: .label .label-hw } Regression (due 7/11)
 
