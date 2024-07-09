@@ -71,7 +71,7 @@
   },"10": {
     "doc": "Home / Schedule",
     "title": "Week 4",
-    "content": "July 8 Lecture 11 Constant Model, Loss, and Transformations Note 11 Lab 6 Modeling, Loss Functions, and Summary Statistics (due 7/10) Discussion 5 Probability, Sampling, and Simple Linear Regression July 9 Lecture 12 OLS (Multiple Regression) Note 12 Homework 7 Regression (due 7/11) July 10 Discussion 6 Constant Models, OLS, and Multiple Linear Regression July 11 Lecture 13 Gradient Descent and sklearn Note 13 Lab 7 Ordinary Least Squares (due 7/14) July 12 Lecture 14 Feature Engineering Note 14 Project A1 Housing I (due 7/15) ",
+    "content": "July 8 Lecture 11 Constant Model, Loss, and Transformations Note 11 Lab 6 Modeling, Loss Functions, and Summary Statistics (due 7/10) Discussion 5 Probability, Sampling, and Simple Linear Regression Solutions July 9 Lecture 12 OLS (Multiple Regression) Note 12 Homework 7 Regression (due 7/11) July 10 Discussion 6 Constant Models, OLS, and Multiple Linear Regression July 11 Lecture 13 Gradient Descent and sklearn Note 13 Lab 7 Ordinary Least Squares (due 7/14) July 12 Lecture 14 Feature Engineering Note 14 Project A1 Housing I (due 7/15) ",
     "url": "/su24/#week-4",
     
     "relUrl": "/#week-4"
@@ -218,7 +218,7 @@
   },"31": {
     "doc": "Lecture 12 - OLS (Multiple Regression)",
     "title": "Lecture 12 - OLS (Multiple Regression)",
-    "content": "Presented by Kevin Miao . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | . ",
+    "content": "Presented by Kevin Miao . Content by many dedicated Data 100 instructors at UC Berkeley. See our Acknowledgments page. | slides | code | recording | . ",
     "url": "/su24/lecture/lec12/",
     
     "relUrl": "/lecture/lec12/"
