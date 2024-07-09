@@ -11,7 +11,7 @@ July 8
 July 9
 : **Lecture 12**{: .label .label-lecture} [OLS (Multiple Regression)](lecture/lec12)
     : [Note 12](https://ds100.org/course-notes/ols/ols.html)
-: **Homework 7**{: .label .label-hw } Regression (due 7/11)
+: **Homework 7**{: .label .label-hw } [Regression](https://drive.google.com/file/d/1_LHRgsCXvE7iz_UwkLmfG29E2zVGqlsr/view) (due 7/11)
 
 July 10
 : **Discussion 6**{: .label .label-disc } Constant Models, OLS, and Multiple Linear Regression
