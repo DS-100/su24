@@ -15,7 +15,7 @@ July 9
 : **Homework 7**{: .label .label-hw } [Regression](https://drive.google.com/file/d/1_LHRgsCXvE7iz_UwkLmfG29E2zVGqlsr/view) (due 7/11)
 
 July 10
-: **Discussion 6**{: .label .label-disc } Constant Models, OLS, and Multiple Linear Regression
+: **Discussion 6**{: .label .label-disc } [Constant Models, OLS, and Multiple Linear Regression](https://drive.google.com/file/d/1WX_CNJzV5uQFUP1VBZjP0r_0cu8X6kYn/view?usp=sharing)
 
 July 11
 : **Lecture 13**{: .label .label-lecture} Gradient Descent and sklearn
