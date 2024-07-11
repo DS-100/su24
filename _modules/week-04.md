@@ -20,7 +20,7 @@ July 10
 July 11
 : **Lecture 13**{: .label .label-lecture} [Gradient Descent and sklearn](lecture/lec13)
     : [Note 13](https://ds100.org/course-notes/gradient_descent/gradient_descent.html)
-: **Lab 7**{: .label .label-lab }  Ordinary Least Squares (due 7/14)
+: **Lab 7**{: .label .label-lab }  [Ordinary Least Squares](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab07%2Flab07.ipynb&branch=main) (due 7/14)
 
 July 12
 : **Lecture 14**{: .label .label-lecture} Feature Engineering
