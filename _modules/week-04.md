@@ -16,6 +16,7 @@ July 9
 
 July 10
 : **Discussion 6**{: .label .label-disc } [Constant Models, OLS, and Multiple Linear Regression](https://drive.google.com/file/d/1WX_CNJzV5uQFUP1VBZjP0r_0cu8X6kYn/view?usp=sharing)
+    : [Solutions](https://drive.google.com/file/d/1it-RdfV9vaYlF0lYs0-OQgaWsk4jCIfk/view?usp=sharing)
 
 July 11
 : **Lecture 13**{: .label .label-lecture} [Gradient Descent and sklearn](lecture/lec13)
