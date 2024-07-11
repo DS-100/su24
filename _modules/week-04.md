@@ -18,7 +18,7 @@ July 10
 : **Discussion 6**{: .label .label-disc } [Constant Models, OLS, and Multiple Linear Regression](https://drive.google.com/file/d/1WX_CNJzV5uQFUP1VBZjP0r_0cu8X6kYn/view?usp=sharing)
 
 July 11
-: **Lecture 13**{: .label .label-lecture} Gradient Descent and sklearn
+: **Lecture 13**{: .label .label-lecture} [Gradient Descent and sklearn](lecture/lec13)
     : [Note 13](https://ds100.org/course-notes/gradient_descent/gradient_descent.html)
 : **Lab 7**{: .label .label-lab }  Ordinary Least Squares (due 7/14)
 
