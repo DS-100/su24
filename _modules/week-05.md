@@ -12,7 +12,6 @@ July 15
 July 16
 : **Lecture 16**{: .label .label-lecture} Case Study (HCE): CCAO
     : [Note 16](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html)
-: **Lecture 16**{: .label .label-lecture} TBD
 
 July 17
 : **Discussion 8**{: .label .label-disc } Exam Review
