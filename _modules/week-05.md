@@ -10,14 +10,15 @@ July 15
 : **Discussion 7**{: .label .label-disc } Gradient Descent and Feature Engineering
 
 July 16
+: **Lecture 16**{: .label .label-lecture} Case Study (HCE): CCAO
+    : [Note 16](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html)
 : **Lecture 16**{: .label .label-lecture} TBD
 
 July 17
 : **Discussion 8**{: .label .label-disc } Exam Review
 
 July 18
-: **Lecture 17**{: .label .label-lecture} Case Study (HCE): CCAO
-    : [Note 17](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html)
+: **Lecture 17**{: .label .label-lecture} TBD
 : **Lab 9**{: .label .label-lab }  Model Selection, Regularization, and Cross-Validation (due 7/21)
 
 July 19
