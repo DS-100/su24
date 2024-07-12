@@ -24,6 +24,6 @@ July 11
 : **Lab 7**{: .label .label-lab }  [Ordinary Least Squares](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab07%2Flab07.ipynb&branch=main) (due 7/14)
 
 July 12
-: **Lecture 14**{: .label .label-lecture} Feature Engineering
+: **Lecture 14**{: .label .label-lecture} [Feature Engineering](lecture/lec14)
     : [Note 14](https://ds100.org/course-notes/feature_engineering/feature_engineering.html)
 : **Project A1**{: .label .label-proj } Housing I (due 7/15)
