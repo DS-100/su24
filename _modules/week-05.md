@@ -10,7 +10,7 @@ July 15
 : **Discussion 7**{: .label .label-disc } Gradient Descent and Feature Engineering
 
 July 16
-: **Lecture 16**{: .label .label-lecture} Case Study (HCE): CCAO
+: **Lecture 16**{: .label .label-lecture} [HCE Case Study: CCAO (Prerecorded)](lecture/lec16)
     : [Note 16](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html)
 
 July 17
