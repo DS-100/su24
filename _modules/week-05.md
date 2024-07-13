@@ -6,12 +6,12 @@ July 15
 : **Lecture 15**{: .label .label-lecture} Cross-Validation and Regularization
     : [Note 15](https://ds100.org/course-notes/cv_regularization/cv_reg.html)
 : **Lab 8**{: .label .label-lab }  Gradient Descent and Feature Engineering (due 7/17)
-: **Project A2**{: .label .label-proj } Housing II (due 7/18)
 : **Discussion 7**{: .label .label-disc } Gradient Descent and Feature Engineering
 
 July 16
 : **Lecture 16**{: .label .label-lecture} [HCE Case Study: CCAO (Prerecorded)](lecture/lec16)
     : [Note 16](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html)
+: **Project A2**{: .label .label-proj } Housing II (due 7/22)
 
 July 17
 : **Discussion 8**{: .label .label-disc } Exam Review
