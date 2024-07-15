@@ -6,7 +6,7 @@ July 15
 : **Lecture 15**{: .label .label-lecture} [Cross-Validation and Regularization (Guest: Matthew Shen)](lecture/lec15)
     : [Note 15](https://ds100.org/course-notes/cv_regularization/cv_reg.html)
 : **Lab 8**{: .label .label-lab }  Gradient Descent and Feature Engineering (due 7/17)
-: **Discussion 7**{: .label .label-disc } Gradient Descent and Feature Engineering
+: **Discussion 7**{: .label .label-disc } [Gradient Descent and Feature Engineering](https://drive.google.com/file/d/1MQjNOia5LOypAe7aI_7s2wyKGqUze1Ml/view?usp=sharing)
 
 July 16
 : **Lecture 16**{: .label .label-lecture} [HCE Case Study: CCAO (Prerecorded)](lecture/lec16)
