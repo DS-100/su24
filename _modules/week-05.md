@@ -5,7 +5,7 @@ title: Week 5
 July 15
 : **Lecture 15**{: .label .label-lecture} [Cross-Validation and Regularization (Guest: Matthew Shen)](lecture/lec15)
     : [Note 15](https://ds100.org/course-notes/cv_regularization/cv_reg.html)
-: **Lab 8**{: .label .label-lab }  Gradient Descent and Feature Engineering (due 7/17)
+: **Lab 8**{: .label .label-lab }  [Gradient Descent and sklearn](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab08%2Flab08.ipynb&branch=main) (due 7/17)
 : **Discussion 7**{: .label .label-disc } [Gradient Descent and Feature Engineering](https://drive.google.com/file/d/1MQjNOia5LOypAe7aI_7s2wyKGqUze1Ml/view?usp=sharing)
 
 July 16
