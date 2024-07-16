@@ -12,3 +12,4 @@ Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowle
 
 - [slides](https://docs.google.com/presentation/d/1U-FX2GRmZI0OKmpwqbX6J-oxHk1bypy4UhZR6Z9rf7Y/edit?usp=sharing){:target="_blank"}
 - [recording](https://bcourses.berkeley.edu/courses/1535115/external_tools/90481){:target="_blank"}
+- [math](https://drive.google.com/file/d/1-3bvzplmCvS3NqHKNaIkYQoQwVJl-2fi/view){:target="_blank"}
