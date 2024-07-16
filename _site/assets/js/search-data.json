@@ -78,7 +78,7 @@
   },"11": {
     "doc": "Home / Schedule",
     "title": "Week 5",
-    "content": "July 15 Lecture 15 Cross-Validation and Regularization (Guest: Matthew Shen) Note 15 Lab 8 Gradient Descent and Feature Engineering (due 7/17) Discussion 7 Gradient Descent and Feature Engineering July 16 Lecture 16 HCE Case Study: CCAO (Prerecorded) Note 16 Project A2 Housing II (due 7/22) July 17 Discussion 8 Exam Review July 18 Lecture 17 Random Variables Note 17 Lab 9 Model Selection, Regularization, and Cross-Validation (due 7/21) July 19 Midterm Midterm ",
+    "content": "July 15 Lecture 15 Cross-Validation and Regularization (Guest: Matthew Shen) Note 15 Lab 8 Gradient Descent and sklearn (due 7/17) Discussion 7 Gradient Descent and Feature Engineering Solutions July 16 Lecture 16 HCE Case Study: CCAO (Prerecorded) Note 16 Project A2 Housing II (due 7/22) July 17 Discussion 8 Exam Review July 18 Lecture 17 Random Variables Note 17 Lab 9 Model Selection, Regularization, and Cross-Validation (due 7/21) July 19 Midterm Midterm ",
     "url": "/su24/#week-5",
     
     "relUrl": "/#week-5"
