@@ -15,7 +15,7 @@ July 16
 : **Project A2**{: .label .label-proj } [Housing II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fproj%2FprojA2%2FprojA2.ipynb&branch=main) (due 7/22)
 
 July 17
-: **Discussion 8**{: .label .label-disc } Exam Review
+: **Discussion 8**{: .label .label-disc } [Exam Review](https://drive.google.com/file/d/1DE9tTM6WpQLdV1NAmwVb7SZbqGOAx2d2/view?usp=sharing)
 
 July 18
 : **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
