@@ -16,7 +16,7 @@ Jump to:
 {:toc}
 
 ## Reference Sheet
-An updated reference sheet will be shared closer to the start of the exam. For reference, we have provided the Spring 2024 Final [Reference Sheet](assets/exams/sp24/ds100-sp24-final-ref.pdf){:target="_blank"}.
+Here is the Summer 2024 Midterm [Reference Sheet](assets\exams\su24\su24_mt_reference_sheet.pdf){:target="_blank"}.
 
 ## Supplementary Course Notes
 Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
@@ -40,6 +40,7 @@ Textbook readings are purely optional, and may contain material that is not in s
 
 | Semester | Midterm 1 | Midterm 2  | Final | Reference Sheet |
 | -- | -- | -- | -- | -- |
+|Summer 2024| | | | [Midterm](assets\exams\su24\su24_mt_reference_sheet.pdf) |
 |Spring 2024| [Exam](assets/exams/sp24/ds100-sp24-midterm.pdf){:target="_blank"} [(Solutions)](assets/exams/sp24/ds100-sp24-midterm-sol.pdf){:target="_blank"} | | [Exam](assets/exams/sp24/ds100-sp24-final.pdf){:target="_blank"} [(Solutions)](https://ds100.org/sp24/resources/assets/exams/sp24/ds100-sp24-final-sol.pdf)| [Midterm](assets/exams/sp24/ds100-sp24-midterm-ref.pdf){:target="_blank"}, [Final](assets/exams/sp24/ds100-sp24-final-ref.pdf){:target="_blank"} |
 |Fall 2023| [Exam](assets/exams/fa23/fa23-midterm-ds100.pdf){:target="_blank"} [(Solutions)](assets/exams/fa23/fa23-midterm-ds100-sol.pdf){:target="_blank"} [[Walkthrough]](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpu7tvfnsip5caEOcO50r8U){:target="_blank"} | | [Exam](assets/exams/fa23/fa23-final.pdf){:target="_blank"} [(Solutions)](assets/exams/fa23/fa23-final-solutions.pdf){:target="_blank"} [[Walkthrough]](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqmK_hC9eQwJtTtcsKsxUdW) | [Midterm](assets/exams/fa23/fa23_mt_reference_sheet.pdf), [Final](assets/exams/fa23/fa23_final_reference_sheet.pdf) | 
 |Summer 2023| [Exam](assets/exams/su23/su23_mt.pdf) [(Solutions)](assets/exams/su23/su23_mt_sol.pdf) [[Walkthrough]](https://youtube.com/playlist?list=PLQCcNQgUcDfr-6Ekq9EldsWn0iF4vE-q4&si=osRk_jjmaXoVlWYN) | | [Exam](assets/exams/su23/su23_final.pdf) [(Solutions)](assets/exams/su23/su23_final_sol.pdf) [[Walkthrough]](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqr0zzY8n17SmUWc64vYg_i)| [Midterm](assets/exams/su23/su23_mt_reference_sheet.pdf), [Final](assets/exams/su23/su23_final_reference_sheet.pdf)|
