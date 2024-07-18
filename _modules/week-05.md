@@ -16,6 +16,7 @@ July 16
 
 July 17
 : **Discussion 8**{: .label .label-disc } [Exam Review](https://drive.google.com/file/d/1DE9tTM6WpQLdV1NAmwVb7SZbqGOAx2d2/view?usp=sharing)
+    : [Solutions](https://drive.google.com/file/d/1c2dRszLBhp5DuFbPPnJLwq8ezPihYnRX/view?usp=sharing)
 
 July 18
 : **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
