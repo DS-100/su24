@@ -21,7 +21,7 @@ July 17
 July 18
 : **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
     : [Note 17](https://ds100.org/course-notes/probability_1/probability_1.html)
-: **Lab 9**{: .label .label-lab }  Model Selection, Regularization, and Cross-Validation (due 7/21)
+: **Lab 9**{: .label .label-lab }  [Model Selection, Regularization, and Cross-Validation](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab09%2Flab09.ipynb&branch=main) (due 7/21)
 
 July 19
 : **Midterm**{: .label .label-exam } Midterm
