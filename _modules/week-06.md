@@ -5,7 +5,7 @@ title: Week 6
 July 22
 : **Lecture 18**{: .label .label-lecture} Estimators, Bias, and Variance
     : [Note 18](https://ds100.org/course-notes/probability_2/probability_2.html)
-: **Lab 10**{: .label .label-lab }  Probability (due 7/10)
+: **Lab 10**{: .label .label-lab }  Probability (due 7/24)
 : **Discussion 9**{: .label .label-disc } Cross-Validation and Regularization
 
 July 23
