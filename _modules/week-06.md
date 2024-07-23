@@ -10,7 +10,7 @@ July 22
     : [Solutions](https://drive.google.com/file/d/12NFFUfRbn3Q27FS3iyKxxoUdsWKSIHp1/view?usp=sharing)
 
 July 23
-: **Lecture 19**{: .label .label-lecture} Parameter Inference and Bootstrapping
+: **Lecture 19**{: .label .label-lecture} [Parameter Inference and Bootstrapping](lecture/lec19)
     : [Note 19](https://ds100.org/course-notes/inference_causality/inference_causality.html)
 : **Homework 8**{: .label .label-hw } Probability and Estimators (due 7/25)
 
