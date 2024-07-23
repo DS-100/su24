@@ -7,6 +7,7 @@ July 22
     : [Note 18](https://ds100.org/course-notes/probability_2/probability_2.html)
 : **Lab 10**{: .label .label-lab }  [Probability](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab10%2Flab10.ipynb&branch=main) (due 7/24)
 : **Discussion 9**{: .label .label-disc } [Cross-Validation and Regularization](https://drive.google.com/file/d/14N0jH-nJP54QA69aV_-MqVn_rBxuxiwM/view?usp=sharing)
+    : [Solutions](https://drive.google.com/file/d/12NFFUfRbn3Q27FS3iyKxxoUdsWKSIHp1/view?usp=sharing)
 
 July 23
 : **Lecture 19**{: .label .label-lecture} Parameter Inference and Bootstrapping
