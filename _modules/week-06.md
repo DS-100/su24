@@ -15,7 +15,7 @@ July 23
 : **Homework 8**{: .label .label-hw } [Probability and Estimators](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw08%2Fhw08.ipynb&branch=main) (due 7/25)
 
 July 24
-: **Discussion 10**{: .label .label-disc } Random Variables, Bias, and Variance
+: **Discussion 10**{: .label .label-disc } [Random Variables, Bias, and Variance](https://drive.google.com/file/d/1YHEFYVTdovc4IH0vKf9Kovsd7u98UW6u/view?usp=sharing)
 
 July 25
 : **Lecture 20**{: .label .label-lecture} SQL
