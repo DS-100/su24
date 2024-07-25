@@ -19,7 +19,7 @@ July 24
     : [Solutions](https://drive.google.com/file/d/1OLLF7hkGc3gM0zo65ntmz-HNVlY7fEK7/view?usp=drive_link)
 
 July 25
-: **Lecture 20**{: .label .label-lecture} SQL
+: **Lecture 20**{: .label .label-lecture} [SQL](lecture/lec20)
     : [Note 20](https://ds100.org/course-notes/sql_I/sql_I.html), [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 : **Lab 11**{: .label .label-lab }  SQL (due 7/28)
 
