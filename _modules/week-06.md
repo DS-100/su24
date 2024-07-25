@@ -16,6 +16,7 @@ July 23
 
 July 24
 : **Discussion 10**{: .label .label-disc } [Random Variables, Bias, and Variance](https://drive.google.com/file/d/1YHEFYVTdovc4IH0vKf9Kovsd7u98UW6u/view?usp=sharing)
+    : [Solutions](https://drive.google.com/file/d/1OLLF7hkGc3gM0zo65ntmz-HNVlY7fEK7/view?usp=drive_link)
 
 July 25
 : **Lecture 20**{: .label .label-lecture} SQL
