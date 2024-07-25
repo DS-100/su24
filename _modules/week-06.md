@@ -24,6 +24,6 @@ July 25
 : **Lab 11**{: .label .label-lab }  SQL (due 7/28)
 
 July 26
-: **Lecture 21**{: .label .label-lecture} Logistic Regression I
+: **Lecture 21**{: .label .label-lecture} [Logistic Regression I](lecture/lec21)
     : [Note 21](https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html)
 : **Homework 9**{: .label .label-hw } SQL (due 7/29)
