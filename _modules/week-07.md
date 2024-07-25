@@ -4,7 +4,7 @@ title: Week 7
 
 July 29
 : **Lecture 22**{: .label .label-lecture} Logistic Regression II
-    : [Note 22](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html)
+    : [Note 23](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html)
 : **Lab 12**{: .label .label-lab } Logistic Regression (due 7/31)
 : **Project B1**{: .label .label-proj } Spam and Ham I (due 8/1)
 : **Discussion 11**{: .label .label-disc } SQL
