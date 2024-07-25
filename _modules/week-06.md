@@ -19,7 +19,7 @@ July 24
 
 July 25
 : **Lecture 20**{: .label .label-lecture} SQL
-    : [Note 20](https://ds100.org/course-notes/sql_I/sql_I.html)
+    : [Note 20](https://ds100.org/course-notes/sql_I/sql_I.html), [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 : **Lab 11**{: .label .label-lab }  SQL (due 7/28)
 
 July 26
