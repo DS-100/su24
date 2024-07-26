@@ -21,7 +21,7 @@ July 24
 July 25
 : **Lecture 20**{: .label .label-lecture} [SQL](lecture/lec20)
     : [Note 20](https://ds100.org/course-notes/sql_I/sql_I.html), [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
-: **Lab 11**{: .label .label-lab }  SQL (due 7/28)
+: **Lab 11**{: .label .label-lab }  [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab11%2Flab11.ipynb&branch=main) (due 7/28)
 
 July 26
 : **Lecture 21**{: .label .label-lecture} [Logistic Regression I](lecture/lec21)
