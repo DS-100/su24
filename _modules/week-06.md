@@ -26,4 +26,4 @@ July 25
 July 26
 : **Lecture 21**{: .label .label-lecture} [Logistic Regression I](lecture/lec21)
     : [Note 22](https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html)
-: **Homework 9**{: .label .label-hw } SQL (due 7/29)
+: **Homework 9**{: .label .label-hw } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw09%2Fhw09.ipynb&branch=main) (due 7/29)
