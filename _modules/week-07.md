@@ -3,11 +3,11 @@ title: Week 7
 ---
 
 July 29
-: **Lecture 22**{: .label .label-lecture} Logistic Regression II
+: **Lecture 22**{: .label .label-lecture} [Logistic Regression II](lecture/lec22)
     : [Note 23](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html)
 : **Lab 12**{: .label .label-lab } Logistic Regression (due 7/31)
 : **Project B1**{: .label .label-proj } Spam and Ham I (due 8/1)
-: **Discussion 11**{: .label .label-disc } SQL
+: **Discussion 11**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1BQaoJEHVg_6626adpD-BioCw2gTLoKHn/view?usp=sharing) [(Worksheet Notebook)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fdisc%2Fdisc11%2Fdisc11_blank.ipynb&branch=main)
 
 July 30
 : **Lecture 23**{: .label .label-lecture} Ensembles
