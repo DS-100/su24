@@ -10,7 +10,7 @@ July 29
 : **Discussion 11**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1BQaoJEHVg_6626adpD-BioCw2gTLoKHn/view?usp=sharing) [(Worksheet Notebook)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fdisc%2Fdisc11%2Fdisc11_blank.ipynb&branch=main)
 
 July 30
-: **Lecture 23**{: .label .label-lecture} Decision Trees
+: **Lecture 23**{: .label .label-lecture} [Decision Trees](lecture/lec23)
   : [Note 24](https://ds100.org/course-notes/decision_tree/decision_tree.html)
 
 July 31
