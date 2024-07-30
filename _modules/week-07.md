@@ -10,18 +10,19 @@ July 29
 : **Discussion 11**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1BQaoJEHVg_6626adpD-BioCw2gTLoKHn/view?usp=sharing) [(Worksheet Notebook)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fdisc%2Fdisc11%2Fdisc11_blank.ipynb&branch=main)
 
 July 30
-: **Lecture 23**{: .label .label-lecture} Ensembles
+: **Lecture 23**{: .label .label-lecture} Decision Trees
+  : [Note 24](https://ds100.org/course-notes/decision_tree/decision_tree.html)
 
 July 31
 : **Discussion 12**{: .label .label-disc } Logistic Regression
 
 August 1
 : **Lecture 24**{: .label .label-lecture} PCA
-    : [Note 24](https://ds100.org/course-notes/pca_1/pca_1.html)
+    : [Note 25](https://ds100.org/course-notes/pca_1/pca_1.html)
 : **Lab 13**{: .label .label-lab } PCA (due 8/4)
 
 August 2
 : **Lecture 25**{: .label .label-lecture} Clustering
-    : [Note 25](https://ds100.org/course-notes/clustering/clustering.html)
+    : [Note 26](https://ds100.org/course-notes/clustering/clustering.html)
 : **Project B2**{: .label .label-proj } Spam and Ham II (due 8/5)
 : **Homework 10**{: .label .label-hw } PCA and Clustering (due 8/5)
