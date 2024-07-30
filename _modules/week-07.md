@@ -20,9 +20,9 @@ August 1
 : **Lecture 24**{: .label .label-lecture} PCA
     : [Note 25](https://ds100.org/course-notes/pca_1/pca_1.html)
 : **Lab 13**{: .label .label-lab } PCA (due 8/4)
+: **Project B2**{: .label .label-proj } Spam and Ham II (due 8/5)
 
 August 2
 : **Lecture 25**{: .label .label-lecture} Clustering
     : [Note 26](https://ds100.org/course-notes/clustering/clustering.html)
-: **Project B2**{: .label .label-proj } Spam and Ham II (due 8/5)
 : **Homework 10**{: .label .label-hw } PCA and Clustering (due 8/5)
