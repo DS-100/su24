@@ -8,6 +8,7 @@ July 29
 : **Lab 12**{: .label .label-lab } [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flab%2Flab12%2Flab12.ipynb&branch=main) (due 7/31)
 : **Project B1**{: .label .label-proj } [Spam and Ham I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fproj%2FprojB1%2FprojB1.ipynb&branch=main) (due 8/1)
 : **Discussion 11**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1BQaoJEHVg_6626adpD-BioCw2gTLoKHn/view?usp=sharing) [(Worksheet Notebook)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fdisc%2Fdisc11%2Fdisc11_blank.ipynb&branch=main)
+    : [Solutions](https://drive.google.com/file/d/1MWLceZahxr_N2SvwkY5w3zAuQ--XiT_n/view?usp=drive_link)
 
 July 30
 : **Lecture 23**{: .label .label-lecture} [Decision Trees](lecture/lec23)
