@@ -10,7 +10,7 @@ Presented by Maya Shen
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 
-<!-- - [slides](https://docs.google.com/presentation/d/1ia7iRZO1V49b-LRQCX_4DaHlQky_B0sKV3lP3BvPEL8/edit?usp=sharing){:target="_blank"} -->
+ - [slides](https://docs.google.com/presentation/d/11UtUruNLO4gIWuwmtYHN1ToA4ovtPedrkdhtBz2ROE8/edit?usp=sharing){:target="_blank"}
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flecture%2Flec24%2Flec24-su24.ipynb&branch=main){:target="_blank"}
 - [votes code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flecture%2Flec24%2Flec24-su24-votes.ipynb&branch=main){:target="_blank"}
 - [fashion-mnist code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Flecture%2Flec24%2Flec24-su24-fashion-mnist.ipynb&branch=main){:target="_blank"}
