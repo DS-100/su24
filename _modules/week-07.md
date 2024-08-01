@@ -18,7 +18,7 @@ July 31
 : **Discussion 12**{: .label .label-disc } [Logistic Regression](https://drive.google.com/file/d/1W8sslUNn2wLM0ihLb1-eI80TZJuriuQK/view?usp=sharing)
 
 August 1
-: **Lecture 24**{: .label .label-lecture} PCA
+: **Lecture 24**{: .label .label-lecture} [PCA](lecture/lec24)
     : [Note 25](https://ds100.org/course-notes/pca_1/pca_1.html)
 : **Lab 13**{: .label .label-lab } PCA (due 8/4)
 : **Project B2**{: .label .label-proj } Spam and Ham II (due 8/5)
