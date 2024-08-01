@@ -26,4 +26,4 @@ August 1
 August 2
 : **Lecture 25**{: .label .label-lecture} Clustering
     : [Note 26](https://ds100.org/course-notes/clustering/clustering.html)
-: **Homework 10**{: .label .label-hw } PCA and Clustering (due 8/5)
+: **Homework 10**{: .label .label-hw } PCA and Decision Trees (due 8/5)
