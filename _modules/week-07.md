@@ -24,6 +24,6 @@ August 1
 : **Project B2**{: .label .label-proj } [Spam and Ham II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fproj%2FprojB2%2FprojB2.ipynb&branch=main) (due 8/5)
 
 August 2
-: **Lecture 25**{: .label .label-lecture} Clustering
+: **Lecture 25**{: .label .label-lecture} [Clustering](lecture/lec25)
     : [Note 26](https://ds100.org/course-notes/clustering/clustering.html)
 : **Homework 10**{: .label .label-hw } PCA and Decision Trees (due 8/5)
