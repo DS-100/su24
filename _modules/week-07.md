@@ -16,6 +16,7 @@ July 30
 
 July 31
 : **Discussion 12**{: .label .label-disc } [Logistic Regression](https://drive.google.com/file/d/1W8sslUNn2wLM0ihLb1-eI80TZJuriuQK/view?usp=sharing)
+    : [Solutions](https://drive.google.com/file/d/1WHPx7kT3Trs9to-Zk5L_brq6IcukCQUZ/view?usp=drive_link)
 
 August 1
 : **Lecture 24**{: .label .label-lecture} [PCA](lecture/lec24)
