@@ -27,4 +27,4 @@ August 1
 August 2
 : **Lecture 25**{: .label .label-lecture} [Clustering](lecture/lec25)
     : [Note 26](https://ds100.org/course-notes/clustering/clustering.html)
-: **Homework 10**{: .label .label-hw } PCA and Decision Trees (due 8/5)
+: **Homework 10**{: .label .label-hw } [PCA and Decision Trees (Extra Credit)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu24-materials&urlpath=lab%2Ftree%2Fsu24-materials%2Fhw%2Fhw10%2Fhw10.ipynb&branch=main) (due 8/5)
